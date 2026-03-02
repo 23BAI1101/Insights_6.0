@@ -1,0 +1,863 @@
+name,online_order,book_table,rating,votes,location,rest_type,dish_liked,cuisines,cost,service_type,cuisine_count,price_range
+KFC,No,Yes,3.8,2005,Indiranagar,Bakery,Biryani,"Mexican, Thai, Chinese, Desserts",600.0,Delivery,4,Moderate
+Resto_511,No,No,3.4,1731,Mg Road,Bar,Dosa,"Desserts, North Indian",1500.0,Buffet,2,Expensive
+Empire Restaurant,Yes,No,4.7,1177,Nan,Bakery,Pasta,"Fast Food, Beverages, Continental, Chinese, Italian",2000.0,Delivery,5,Expensive
+Pizza Hut,Yes,Yes,3.2,2101,Jayanagar,Casual Dining,Sushi,"Fast Food, Desserts",200.0,Drinks & nightlife,2,Cheap
+Resto_759,Yes,Yes,4.7,665,Koramangala,Bakery,Sushi,"Continental, Mexican",1200.0,Delivery,2,Expensive
+Resto_109,No,No,2.8,2552,Indiranagar,Cafe,Sushi,Mexican,1200.0,Dine-out,1,Expensive
+Pizza Hut,No,No,3.2,164,Hsr Layout,Bar,Pasta,"Chinese, Mexican, Beverages, Desserts, South Indian",3000.0,Buffet,5,Very Expensive
+Resto_758,Yes,Yes,2.4,637,Jayanagar,Fine Dining,Pasta,"North Indian, Fast Food, Italian, Mexican",1000.0,Cafes,4,Moderate
+Burger King,Yes,No,4.3,1871,Whitefield,Casual Dining,Sushi,"Italian, Continental",1000.0,Cafes,2,Moderate
+Burger King,No,Yes,3.2,1768,Koramangala,Bar,Pasta,"Mexican, North Indian, Italian",1200.0,Cafes,3,Expensive
+Nandhana Palace,No,No,2.2,1850,Hsr Layout,Fine Dining,Salad,"Chinese, Mexican, Desserts",2500.0,Pubs and bars,3,Very Expensive
+Resto_649,Yes,No,4.1,2263,Marathahalli,Casual Dining,Salad,"Mexican, South Indian, Fast Food, Thai",1500.0,Delivery,4,Expensive
+Resto_737,Yes,Yes,3.3,2615,Koramangala,Bar,Pizza,"Italian, Fast Food, Thai, Desserts, North Indian",1500.0,Drinks & nightlife,5,Expensive
+Resto_150,Yes,No,4.2,2285,Hsr Layout,Bakery,Pizza,"Mexican, Desserts, South Indian",1200.0,Drinks & nightlife,3,Expensive
+KFC,No,Yes,3.8,2776,Jayanagar,Fine Dining,Sushi,North Indian,1000.0,Pubs and bars,1,Moderate
+Burger King,No,Yes,3.0,2199,Indiranagar,Casual Dining,Sushi,"Thai, South Indian",3000.0,Cafes,2,Very Expensive
+KFC,Yes,No,2.2,980,Marathahalli,Bakery,Biryani,Italian,2000.0,Drinks & nightlife,1,Expensive
+Nandhana Palace,Yes,No,2.9,1852,Nan,Bar,Pasta,"Desserts, South Indian, Beverages, Continental",2000.0,Pubs and bars,4,Expensive
+Resto_870,No,No,3.8,257,Whitefield,Fine Dining,Burgers,"Continental, Fast Food, Italian",1200.0,Buffet,3,Expensive
+KFC,Yes,No,3.0,968,Jayanagar,Casual Dining,Pasta,"Fast Food, Thai, Italian, Chinese, Desserts",800.0,Delivery,5,Moderate
+Burger King,No,Yes,4.5,1147,Whitefield,Quick Service Restaurant,Burgers,"Thai, Mexican, Continental, South Indian, North Indian",200.0,Buffet,5,Cheap
+Resto_372,Yes,No,4.2,2878,Hsr Layout,Bar,Dosa,"Thai, Fast Food",1000.0,Delivery,2,Moderate
+Burger King,Yes,No,4.3,26,Jayanagar,Fine Dining,Pizza,"Thai, Continental, South Indian, Chinese",1200.0,Drinks & nightlife,4,Expensive
+Resto_366,No,Yes,2.1,2329,Koramangala,Quick Service Restaurant,Burgers,"Chinese, Desserts",2000.0,Drinks & nightlife,2,Expensive
+McDonald's,Yes,No,2.2,2013,Indiranagar,Cafe,Burgers,South Indian,800.0,Dine-out,1,Moderate
+Burger King,No,Yes,3.4,1243,Jp Nagar,Cafe,Steak,"Thai, Fast Food, Beverages",2000.0,Delivery,3,Expensive
+Burger King,No,Yes,2.8,2566,Jayanagar,Cafe,Dosa,"South Indian, North Indian, Beverages, Thai, Fast Food",1200.0,Buffet,5,Expensive
+Resto_722,No,Yes,2.1,1329,Hsr Layout,Casual Dining,Biryani,"Continental, Desserts, Mexican, Thai, Fast Food",1200.0,Drinks & nightlife,5,Expensive
+Leon Grill,No,No,2.2,2642,Marathahalli,Bakery,Steak,"Fast Food, South Indian, Continental, Chinese",1200.0,Delivery,4,Expensive
+Nandhana Palace,Yes,Yes,3.7,737,Koramangala,Pub,Pizza,"Thai, Chinese, North Indian, Beverages",3000.0,Buffet,4,Very Expensive
+KFC,No,No,3.8,304,Whitefield,Quick Service Restaurant,Burgers,"South Indian, Mexican, Desserts, North Indian",1000.0,Delivery,4,Moderate
+Nandhana Palace,Yes,Yes,3.8,221,Whitefield,Pub,Burgers,Thai,2500.0,Dine-out,1,Very Expensive
+Leon Grill,Yes,Yes,3.5,886,Marathahalli,Bar,Burgers,"Continental, North Indian, Mexican, Thai",800.0,Buffet,4,Moderate
+Resto_417,Yes,Yes,4.3,557,Koramangala,Bakery,Burgers,"Continental, Thai",3000.0,Buffet,2,Very Expensive
+Leon Grill,Yes,Yes,3.4,310,Marathahalli,Quick Service Restaurant,Steak,"Thai, Continental, South Indian, Mexican",400.0,Cafes,4,Cheap
+Resto_875,No,Yes,4.7,2812,Mg Road,Cafe,Dosa,Fast Food,200.0,Drinks & nightlife,1,Cheap
+Resto_175,No,No,3.7,489,Koramangala,Cafe,Dosa,"Beverages, North Indian",1500.0,Drinks & nightlife,2,Expensive
+Resto_566,No,Yes,2.4,48,Indiranagar,Bakery,Dosa,"North Indian, Chinese, Fast Food, Mexican",200.0,Dine-out,4,Cheap
+Nandhana Palace,Yes,Yes,3.0,847,Marathahalli,Quick Service Restaurant,Biryani,"Chinese, Desserts, Beverages, South Indian",400.0,Drinks & nightlife,4,Cheap
+Resto_580,Yes,Yes,2.0,1266,Hsr Layout,Pub,Salad,"North Indian, Italian",1000.0,Delivery,2,Moderate
+Nandhana Palace,No,No,2.9,807,Koramangala,Bar,Sushi,"Desserts, North Indian, Continental, Italian",400.0,Buffet,4,Cheap
+Pizza Hut,No,Yes,4.1,2922,Hsr Layout,Cafe,Steak,"North Indian, Chinese, Mexican, Beverages, Fast Food",1000.0,Buffet,5,Moderate
+Onesta,No,No,2.3,907,Mg Road,Fine Dining,Steak,"Continental, Thai",2000.0,Pubs and bars,2,Expensive
+Leon Grill,Yes,No,3.6,2876,Mg Road,Quick Service Restaurant,Dosa,"Italian, Thai, Continental",400.0,Dine-out,3,Cheap
+Resto_651,Yes,No,2.1,1432,Hsr Layout,Quick Service Restaurant,Pizza,"Fast Food, Mexican",2000.0,Drinks & nightlife,2,Expensive
+Resto_944,Yes,Yes,3.4,402,Marathahalli,Bar,Dosa,"Thai, North Indian, Beverages, Fast Food, Chinese",1200.0,Drinks & nightlife,5,Expensive
+Resto_531,Yes,Yes,4.5,417,Jayanagar,Bakery,Pizza,"South Indian, North Indian, Chinese, Fast Food",2000.0,Buffet,4,Expensive
+Resto_329,No,No,3.9,1116,Jayanagar,Cafe,Dosa,"Chinese, North Indian, Fast Food",800.0,Dine-out,3,Moderate
+Onesta,No,No,4.2,1630,Jayanagar,Bar,Pizza,Italian,2000.0,Dine-out,1,Expensive
+Resto_191,Yes,Yes,2.4,318,Hsr Layout,Quick Service Restaurant,Burgers,"South Indian, Chinese, Thai",2000.0,Pubs and bars,3,Expensive
+McDonald's,No,Yes,3.8,1811,Hsr Layout,Quick Service Restaurant,Burgers,"Chinese, Mexican",600.0,Drinks & nightlife,2,Moderate
+Onesta,No,No,4.2,1305,Indiranagar,Pub,Dosa,"Mexican, Italian, Thai, South Indian",400.0,Buffet,4,Cheap
+Resto_470,Yes,Yes,3.7,933,Whitefield,Cafe,Biryani,Beverages,3000.0,Cafes,1,Very Expensive
+Burger King,Yes,Yes,4.6,1890,Indiranagar,Fine Dining,Salad,"Desserts, Continental",2500.0,Cafes,2,Very Expensive
+Pizza Hut,No,No,3.9,373,Mg Road,Cafe,Salad,"Mexican, Thai, South Indian",2000.0,Drinks & nightlife,3,Expensive
+Resto_732,No,No,2.3,1075,Indiranagar,Fine Dining,Salad,"Thai, Mexican",1200.0,Dine-out,2,Expensive
+Resto_351,Yes,No,2.8,1804,Indiranagar,Bakery,Pasta,"Fast Food, Mexican",600.0,Buffet,2,Moderate
+Empire Restaurant,Yes,Yes,2.7,889,Koramangala,Cafe,Burgers,"Continental, Italian, Thai, Fast Food, Mexican",1200.0,Cafes,5,Expensive
+Resto_549,No,Yes,3.1,1492,Mg Road,Cafe,Biryani,"Continental, Chinese, Desserts, Thai, Italian",600.0,Drinks & nightlife,5,Moderate
+Resto_308,Yes,Yes,2.9,2888,Jayanagar,Bakery,Pizza,"Fast Food, South Indian",1200.0,Dine-out,2,Expensive
+Empire Restaurant,Yes,No,3.0,133,Whitefield,Bakery,Biryani,"Fast Food, Beverages, Italian",400.0,Buffet,3,Cheap
+Onesta,No,Yes,3.9,317,Koramangala,Bar,Biryani,"Chinese, Thai, Mexican, Desserts",3000.0,Delivery,4,Very Expensive
+Empire Restaurant,No,Yes,3.6,2226,Marathahalli,Fine Dining,Pasta,"Thai, Mexican",800.0,Cafes,2,Moderate
+Resto_284,Yes,No,3.3,137,Hsr Layout,Bakery,Sushi,Beverages,800.0,Dine-out,1,Moderate
+Leon Grill,Yes,No,3.3,2731,Koramangala,Bar,Steak,"Continental, Beverages, South Indian, North Indian",2000.0,Pubs and bars,4,Expensive
+Resto_625,Yes,Yes,4.5,2700,Jayanagar,Quick Service Restaurant,Steak,"North Indian, Italian, Mexican, South Indian",800.0,Pubs and bars,4,Moderate
+Resto_856,Yes,Yes,4.8,1728,Jp Nagar,Fine Dining,Salad,"North Indian, Continental, Thai, Italian",1200.0,Pubs and bars,4,Expensive
+Resto_166,No,Yes,4.4,545,Jayanagar,Casual Dining,Steak,"Fast Food, North Indian, South Indian, Italian, Desserts",800.0,Buffet,5,Moderate
+Resto_579,No,No,4.3,2648,Mg Road,Cafe,Biryani,"Chinese, Fast Food, Beverages",1200.0,Dine-out,3,Expensive
+Resto_411,Yes,No,3.9,369,Mg Road,Bar,Dosa,"Italian, Chinese",3000.0,Cafes,2,Very Expensive
+McDonald's,Yes,No,3.2,1852,Marathahalli,Bakery,Burgers,"Thai, Fast Food, Beverages, Desserts",1500.0,Dine-out,4,Expensive
+KFC,Yes,No,4.0,923,Hsr Layout,Fine Dining,Pizza,"Mexican, Beverages",800.0,Dine-out,2,Moderate
+Resto_144,No,Yes,4.3,1577,Koramangala,Quick Service Restaurant,Pasta,"Mexican, Chinese, Italian, Continental",2500.0,Dine-out,4,Very Expensive
+Onesta,Yes,No,2.5,1682,Mg Road,Cafe,Steak,South Indian,2500.0,Dine-out,1,Very Expensive
+Pizza Hut,No,Yes,3.2,928,Jp Nagar,Fine Dining,Dosa,Thai,2000.0,Delivery,1,Expensive
+Nandhana Palace,No,Yes,4.5,867,Hsr Layout,Bar,Salad,"Beverages, Mexican, Chinese, Desserts",2000.0,Cafes,4,Expensive
+Pizza Hut,Yes,No,4.8,690,Koramangala,Quick Service Restaurant,Sushi,"Italian, Mexican",1000.0,Cafes,2,Moderate
+Pizza Hut,No,Yes,3.6,1325,Marathahalli,Quick Service Restaurant,Sushi,"Beverages, South Indian, Chinese, Continental, Desserts",2000.0,Cafes,5,Expensive
+Resto_70,No,No,4.0,1942,Indiranagar,Casual Dining,Pasta,Chinese,1500.0,Buffet,1,Expensive
+KFC,Yes,Yes,4.8,2507,Marathahalli,Bar,Steak,"Mexican, Beverages, Italian, Desserts",600.0,Pubs and bars,4,Moderate
+Resto_206,Yes,Yes,2.0,1033,Whitefield,Fine Dining,Dosa,"Mexican, Fast Food, Thai",2000.0,Pubs and bars,3,Expensive
+KFC,Yes,No,2.7,534,Marathahalli,Quick Service Restaurant,Biryani,"Fast Food, Beverages, North Indian, Thai, Desserts",400.0,Drinks & nightlife,5,Cheap
+Nandhana Palace,No,Yes,4.6,29,Mg Road,Fine Dining,Burgers,"Thai, Italian, North Indian, Continental, Beverages",600.0,Dine-out,5,Moderate
+Resto_33,No,No,4.4,1033,Indiranagar,Bakery,Burgers,Beverages,200.0,Pubs and bars,1,Cheap
+Leon Grill,No,No,2.3,1262,Marathahalli,Quick Service Restaurant,Steak,"Chinese, South Indian, Fast Food",600.0,Delivery,3,Moderate
+Pizza Hut,Yes,Yes,3.6,890,Whitefield,Fine Dining,Dosa,"North Indian, Desserts, Beverages, Fast Food, South Indian",200.0,Drinks & nightlife,5,Cheap
+Burger King,Yes,No,4.0,2011,Jayanagar,Bakery,Pasta,"South Indian, North Indian, Continental",3000.0,Delivery,3,Very Expensive
+KFC,Yes,No,2.3,298,Indiranagar,Pub,Biryani,"Desserts, North Indian, Fast Food",600.0,Pubs and bars,3,Moderate
+Empire Restaurant,No,No,3.2,498,Marathahalli,Bakery,Salad,"Beverages, North Indian, Italian",200.0,Drinks & nightlife,3,Cheap
+Resto_783,No,No,3.1,961,Jp Nagar,Pub,Pizza,"Chinese, South Indian, Thai",800.0,Buffet,3,Moderate
+Empire Restaurant,Yes,No,3.6,850,Koramangala,Cafe,Dosa,"North Indian, Thai",200.0,Drinks & nightlife,2,Cheap
+Resto_66,Yes,Yes,2.1,60,Jp Nagar,Bar,Pasta,"Fast Food, Thai",200.0,Pubs and bars,2,Cheap
+Resto_129,Yes,Yes,3.2,2030,Koramangala,Quick Service Restaurant,Salad,"Beverages, Thai, Mexican, Italian",600.0,Dine-out,4,Moderate
+Resto_497,Yes,Yes,4.7,981,Jayanagar,Quick Service Restaurant,Pizza,"Continental, Chinese, Italian, Desserts, Mexican",2500.0,Delivery,5,Very Expensive
+McDonald's,No,No,4.8,1352,Indiranagar,Casual Dining,Burgers,"Mexican, South Indian, North Indian, Continental",400.0,Drinks & nightlife,4,Cheap
+Nandhana Palace,No,Yes,3.9,1356,Jp Nagar,Quick Service Restaurant,Pizza,"Fast Food, Beverages",2000.0,Pubs and bars,2,Expensive
+Pizza Hut,No,Yes,3.4,2995,Jayanagar,Cafe,Steak,Mexican,1500.0,Cafes,1,Expensive
+Resto_71,No,Yes,4.5,1732,Koramangala,Quick Service Restaurant,Burgers,"Continental, Thai, Chinese, Fast Food, Mexican",800.0,Delivery,5,Moderate
+KFC,Yes,Yes,2.3,2512,Jp Nagar,Cafe,Sushi,"Beverages, North Indian, Fast Food, Mexican, Italian",400.0,Buffet,5,Cheap
+Onesta,Yes,No,2.3,917,Koramangala,Bar,Burgers,South Indian,400.0,Dine-out,1,Cheap
+Resto_495,Yes,No,4.1,1944,Jayanagar,Pub,Pizza,"Continental, Italian, Desserts, South Indian, Chinese",200.0,Cafes,5,Cheap
+Nandhana Palace,No,Yes,3.6,532,Jayanagar,Pub,Biryani,"North Indian, Thai, Desserts",600.0,Pubs and bars,3,Moderate
+Pizza Hut,Yes,Yes,3.0,1238,Koramangala,Fine Dining,Salad,"South Indian, Continental, North Indian, Desserts, Beverages",1000.0,Delivery,5,Moderate
+Resto_238,Yes,Yes,4.0,1314,Mg Road,Bar,Biryani,Mexican,1000.0,Buffet,1,Moderate
+Nandhana Palace,No,No,4.4,1778,Whitefield,Cafe,Sushi,Mexican,2000.0,Delivery,1,Expensive
+Pizza Hut,Yes,No,3.4,2511,Jp Nagar,Quick Service Restaurant,Sushi,"Desserts, Mexican",800.0,Cafes,2,Moderate
+Resto_35,Yes,Yes,2.3,105,Whitefield,Pub,Pizza,"Mexican, Italian, Chinese, Continental",800.0,Buffet,4,Moderate
+KFC,Yes,Yes,2.8,2084,Whitefield,Bakery,Burgers,"North Indian, Continental, Beverages, Fast Food",600.0,Cafes,4,Moderate
+Resto_8,Yes,Yes,4.5,1259,Hsr Layout,Casual Dining,Pasta,"Fast Food, Chinese",400.0,Dine-out,2,Cheap
+Resto_795,No,Yes,2.9,1982,Mg Road,Quick Service Restaurant,Sushi,"Continental, North Indian, Beverages, Chinese",400.0,Pubs and bars,4,Cheap
+Pizza Hut,Yes,No,3.6,1706,Jayanagar,Bakery,Sushi,"Continental, Italian",1200.0,Delivery,2,Expensive
+Burger King,Yes,Yes,4.5,1609,Jp Nagar,Quick Service Restaurant,Pasta,"Continental, Italian, Chinese, Desserts",600.0,Delivery,4,Moderate
+Empire Restaurant,Yes,Yes,4.9,2327,Mg Road,Bakery,Pizza,"Mexican, Chinese",2500.0,Drinks & nightlife,2,Very Expensive
+Empire Restaurant,Yes,No,4.1,1256,Jayanagar,Pub,Pasta,"Desserts, Fast Food, Continental",600.0,Buffet,3,Moderate
+Onesta,No,No,4.2,2181,Hsr Layout,Bakery,Steak,"Desserts, Continental, South Indian, Beverages",1500.0,Pubs and bars,4,Expensive
+Resto_38,No,Yes,3.0,1058,Jp Nagar,Quick Service Restaurant,Salad,"Continental, Beverages, North Indian, Fast Food, Chinese",400.0,Buffet,5,Cheap
+Burger King,No,No,3.8,589,Jayanagar,Bar,Biryani,"Chinese, Mexican",1000.0,Drinks & nightlife,2,Moderate
+Resto_965,Yes,No,2.4,419,Jp Nagar,Bakery,Dosa,Fast Food,200.0,Drinks & nightlife,1,Cheap
+McDonald's,Yes,No,3.6,1025,Koramangala,Pub,Burgers,Chinese,600.0,Cafes,1,Moderate
+Leon Grill,No,Yes,4.2,1943,Hsr Layout,Pub,Steak,"Beverages, Desserts, Fast Food, South Indian, North Indian",1200.0,Dine-out,5,Expensive
+Resto_79,Yes,Yes,4.2,2023,Marathahalli,Bar,Salad,"Fast Food, Desserts, Thai, Mexican, Beverages",1200.0,Cafes,5,Expensive
+Resto_622,Yes,Yes,4.6,580,Koramangala,Fine Dining,Biryani,"Mexican, Thai, North Indian, Chinese",1000.0,Buffet,4,Moderate
+Empire Restaurant,No,Yes,2.9,2967,Hsr Layout,Pub,Dosa,"Italian, Thai, Beverages, Desserts, Chinese",2500.0,Delivery,5,Very Expensive
+Resto_938,Yes,No,4.6,1227,Mg Road,Cafe,Sushi,South Indian,2000.0,Delivery,1,Expensive
+McDonald's,No,No,2.5,182,Whitefield,Cafe,Sushi,"North Indian, Chinese, Italian, Mexican, South Indian",2500.0,Dine-out,5,Very Expensive
+McDonald's,No,Yes,4.1,1306,Marathahalli,Quick Service Restaurant,Burgers,"Thai, Desserts, Continental, Mexican",2000.0,Buffet,4,Expensive
+Pizza Hut,Yes,Yes,3.7,1705,Indiranagar,Cafe,Sushi,"Chinese, Thai, North Indian, South Indian",400.0,Dine-out,4,Cheap
+McDonald's,No,No,2.6,1009,Whitefield,Pub,Sushi,"Italian, Continental, Beverages",800.0,Cafes,3,Moderate
+Resto_404,No,Yes,3.1,1598,Jp Nagar,Pub,Sushi,Desserts,400.0,Cafes,1,Cheap
+Pizza Hut,Yes,Yes,3.3,365,Jayanagar,Quick Service Restaurant,Salad,"South Indian, Italian, Thai",1500.0,Delivery,3,Expensive
+Nandhana Palace,No,Yes,4.6,631,Hsr Layout,Quick Service Restaurant,Pasta,"Beverages, Continental, Thai, Chinese",400.0,Dine-out,4,Cheap
+Pizza Hut,No,Yes,2.5,1186,Indiranagar,Fine Dining,Biryani,"Fast Food, Desserts, Continental, Thai",3000.0,Dine-out,4,Very Expensive
+McDonald's,No,No,4.8,86,Jayanagar,Cafe,Steak,"Beverages, North Indian, Italian",200.0,Buffet,3,Cheap
+Resto_17,No,Yes,4.6,1000,Jp Nagar,Quick Service Restaurant,Biryani,"Desserts, Beverages",1000.0,Pubs and bars,2,Moderate
+Burger King,No,Yes,4.0,1649,Marathahalli,Cafe,Pizza,"Beverages, South Indian, North Indian, Fast Food",200.0,Pubs and bars,4,Cheap
+Resto_518,No,Yes,2.3,2322,Hsr Layout,Cafe,Salad,"North Indian, South Indian",800.0,Pubs and bars,2,Moderate
+Resto_899,Yes,No,2.9,1543,Indiranagar,Casual Dining,Salad,Chinese,200.0,Delivery,1,Cheap
+Pizza Hut,Yes,Yes,3.0,2310,Mg Road,Quick Service Restaurant,Steak,"Mexican, Thai, South Indian",600.0,Buffet,3,Moderate
+Nandhana Palace,Yes,No,4.1,875,Marathahalli,Pub,Burgers,"Italian, Beverages, Chinese",1500.0,Delivery,3,Expensive
+Onesta,No,Yes,3.0,2418,Jp Nagar,Bar,Steak,"Desserts, South Indian, Chinese",600.0,Cafes,3,Moderate
+Resto_718,No,Yes,2.9,145,Indiranagar,Quick Service Restaurant,Pizza,Beverages,1500.0,Dine-out,1,Expensive
+Burger King,Yes,Yes,3.9,2258,Hsr Layout,Bakery,Sushi,"Italian, Mexican, Thai, Beverages",2000.0,Cafes,4,Expensive
+Empire Restaurant,Yes,No,2.2,2635,Nan,Cafe,Burgers,"South Indian, Fast Food",1200.0,Cafes,2,Expensive
+Leon Grill,Yes,Yes,2.1,534,Marathahalli,Fine Dining,Steak,"South Indian, Italian, Beverages",1000.0,Drinks & nightlife,3,Moderate
+Resto_49,No,No,4.2,833,Whitefield,Pub,Pasta,"Continental, Desserts",2000.0,Drinks & nightlife,2,Expensive
+Onesta,No,Yes,4.5,948,Nan,Casual Dining,Biryani,"South Indian, Beverages, Thai, Italian, North Indian",1200.0,Cafes,5,Expensive
+Nandhana Palace,Yes,No,3.3,1656,Mg Road,Quick Service Restaurant,Biryani,Mexican,400.0,Pubs and bars,1,Cheap
+McDonald's,No,Yes,4.4,1529,Mg Road,Pub,Pasta,"Italian, Thai, Mexican, Beverages",400.0,Pubs and bars,4,Cheap
+Onesta,Yes,Yes,3.5,986,Hsr Layout,Pub,Dosa,"North Indian, Fast Food, Continental",2000.0,Buffet,3,Expensive
+Nandhana Palace,No,No,3.7,2651,Mg Road,Casual Dining,Biryani,"North Indian, South Indian",3000.0,Buffet,2,Very Expensive
+Leon Grill,No,Yes,2.1,2824,Mg Road,Pub,Steak,"North Indian, Desserts, Italian",600.0,Drinks & nightlife,3,Moderate
+Resto_873,Yes,No,3.1,2255,Mg Road,Casual Dining,Dosa,Italian,1000.0,Buffet,1,Moderate
+Onesta,Yes,No,4.2,2207,Whitefield,Fine Dining,Pizza,"Mexican, Fast Food, Thai, Chinese, Beverages",2500.0,Dine-out,5,Very Expensive
+McDonald's,Yes,No,2.2,2990,Whitefield,Bakery,Biryani,"Chinese, Beverages, Fast Food, Desserts, Italian",400.0,Drinks & nightlife,5,Cheap
+McDonald's,Yes,Yes,4.6,2835,Marathahalli,Quick Service Restaurant,Pasta,Chinese,1000.0,Drinks & nightlife,1,Moderate
+Empire Restaurant,No,Yes,3.0,1047,Marathahalli,Bar,Salad,"Beverages, Chinese, Mexican, Thai",3000.0,Delivery,4,Very Expensive
+McDonald's,Yes,No,4.7,360,Mg Road,Bar,Pizza,Italian,1500.0,Cafes,1,Expensive
+Empire Restaurant,No,Yes,2.4,740,Jayanagar,Fine Dining,Salad,"North Indian, Mexican, Thai, Desserts",800.0,Dine-out,4,Moderate
+Pizza Hut,No,No,4.1,1099,Jp Nagar,Bar,Steak,"Chinese, Continental",2000.0,Drinks & nightlife,2,Expensive
+Resto_555,Yes,No,4.7,2914,Mg Road,Cafe,Burgers,"North Indian, South Indian, Fast Food",200.0,Drinks & nightlife,3,Cheap
+Resto_421,Yes,Yes,2.8,2530,Marathahalli,Cafe,Steak,"Fast Food, Desserts, Chinese",200.0,Pubs and bars,3,Cheap
+KFC,Yes,Yes,3.5,76,Indiranagar,Fine Dining,Pizza,"South Indian, North Indian, Continental, Mexican, Chinese",800.0,Buffet,5,Moderate
+Resto_663,Yes,Yes,4.9,321,Indiranagar,Cafe,Biryani,"Beverages, Fast Food, Mexican, Continental, Thai",400.0,Buffet,5,Cheap
+Resto_60,No,No,2.5,541,Jp Nagar,Pub,Pizza,"Continental, South Indian, Fast Food, Mexican, Italian",1000.0,Cafes,5,Moderate
+Onesta,Yes,Yes,4.8,2372,Koramangala,Fine Dining,Pasta,"North Indian, Fast Food, Desserts",2500.0,Delivery,3,Very Expensive
+Resto_674,No,No,4.1,2752,Indiranagar,Fine Dining,Biryani,"North Indian, Mexican, Chinese",2500.0,Dine-out,3,Very Expensive
+McDonald's,Yes,No,2.9,354,Whitefield,Bar,Steak,"Mexican, Fast Food, North Indian, Italian",600.0,Buffet,4,Moderate
+McDonald's,No,No,4.8,2107,Indiranagar,Cafe,Burgers,"North Indian, Continental, South Indian, Thai",600.0,Pubs and bars,4,Moderate
+Pizza Hut,No,No,4.8,1133,Marathahalli,Bar,Pasta,Thai,2000.0,Dine-out,1,Expensive
+Nandhana Palace,No,No,2.5,848,Mg Road,Bakery,Pasta,Italian,800.0,Delivery,1,Moderate
+Resto_924,No,No,3.8,510,Mg Road,Quick Service Restaurant,Pasta,"Desserts, North Indian, Chinese, Italian, Continental",800.0,Pubs and bars,5,Moderate
+Pizza Hut,Yes,No,4.3,938,Koramangala,Bar,Burgers,"Mexican, Continental, Chinese",800.0,Pubs and bars,3,Moderate
+Leon Grill,Yes,No,2.5,1155,Koramangala,Quick Service Restaurant,Pizza,"South Indian, Mexican",3000.0,Cafes,2,Very Expensive
+Resto_858,No,Yes,3.6,339,Hsr Layout,Fine Dining,Salad,Desserts,1500.0,Delivery,1,Expensive
+McDonald's,No,Yes,2.2,1556,Jayanagar,Quick Service Restaurant,Biryani,"Chinese, Italian, South Indian, Thai, Fast Food",1200.0,Cafes,5,Expensive
+KFC,No,Yes,3.9,1013,Whitefield,Bar,Salad,Desserts,1000.0,Delivery,1,Moderate
+Pizza Hut,No,No,3.4,329,Koramangala,Bakery,Dosa,"Fast Food, Continental, North Indian",400.0,Buffet,3,Cheap
+Resto_101,No,No,4.4,302,Jayanagar,Quick Service Restaurant,Pasta,Desserts,2000.0,Buffet,1,Expensive
+Pizza Hut,Yes,Yes,3.5,1016,Mg Road,Bakery,Biryani,Continental,1000.0,Delivery,1,Moderate
+McDonald's,Yes,Yes,4.8,460,Jayanagar,Bar,Salad,"Chinese, Desserts, Italian, Mexican, North Indian",1500.0,Pubs and bars,5,Expensive
+Pizza Hut,Yes,Yes,4.1,2636,Jayanagar,Pub,Steak,"Desserts, Italian, Beverages, Fast Food",800.0,Drinks & nightlife,4,Moderate
+McDonald's,No,No,4.7,1528,Mg Road,Bakery,Steak,"Fast Food, Chinese, Mexican",200.0,Buffet,3,Cheap
+Resto_355,No,Yes,3.0,347,Marathahalli,Fine Dining,Salad,"South Indian, North Indian",800.0,Cafes,2,Moderate
+Onesta,No,Yes,2.5,1662,Indiranagar,Pub,Pizza,Fast Food,1500.0,Dine-out,1,Expensive
+Leon Grill,Yes,No,4.1,1769,Indiranagar,Quick Service Restaurant,Steak,"North Indian, Desserts",1200.0,Cafes,2,Expensive
+Resto_94,No,No,4.2,1583,Jp Nagar,Cafe,Steak,"Desserts, Thai, Continental, Mexican",400.0,Buffet,4,Cheap
+Pizza Hut,No,No,2.2,646,Whitefield,Casual Dining,Salad,"Fast Food, Italian, Continental, Beverages, Desserts",200.0,Drinks & nightlife,5,Cheap
+Resto_807,Yes,No,4.6,1507,Koramangala,Bakery,Steak,"South Indian, North Indian, Desserts",1500.0,Dine-out,3,Expensive
+Resto_199,No,Yes,3.3,2569,Jayanagar,Bar,Dosa,"Continental, Thai, Chinese, North Indian, Italian",2500.0,Buffet,5,Very Expensive
+Resto_422,No,No,2.7,390,Koramangala,Casual Dining,Biryani,"Italian, Desserts, Thai",3000.0,Drinks & nightlife,3,Very Expensive
+Onesta,Yes,Yes,3.7,2851,Jayanagar,Bakery,Salad,"Thai, Desserts, North Indian, Chinese",2000.0,Delivery,4,Expensive
+Onesta,Yes,No,3.6,1056,Marathahalli,Fine Dining,Dosa,Thai,2500.0,Dine-out,1,Very Expensive
+Leon Grill,Yes,Yes,2.1,1193,Jp Nagar,Fine Dining,Pizza,"Fast Food, Chinese, North Indian",600.0,Delivery,3,Moderate
+Resto_605,No,No,3.4,2099,Mg Road,Cafe,Pasta,"South Indian, Italian, Continental",1500.0,Dine-out,3,Expensive
+Empire Restaurant,No,Yes,3.3,1247,Whitefield,Bakery,Pasta,"Mexican, Continental",3000.0,Cafes,2,Very Expensive
+Burger King,No,Yes,4.0,2921,Jayanagar,Fine Dining,Sushi,"South Indian, Mexican",3000.0,Pubs and bars,2,Very Expensive
+McDonald's,Yes,No,3.2,159,Indiranagar,Casual Dining,Pizza,"South Indian, Continental, Mexican",600.0,Buffet,3,Moderate
+Resto_184,Yes,Yes,3.8,2651,Whitefield,Bakery,Burgers,"Beverages, Desserts, North Indian, Fast Food",1000.0,Pubs and bars,4,Moderate
+Onesta,Yes,No,2.9,2942,Jp Nagar,Fine Dining,Burgers,"Mexican, South Indian, Thai",2500.0,Cafes,3,Very Expensive
+Onesta,Yes,No,3.1,2925,Koramangala,Pub,Burgers,"Beverages, South Indian, Chinese, Mexican, Italian",600.0,Dine-out,5,Moderate
+Nandhana Palace,No,No,2.5,1785,Jp Nagar,Bar,Pizza,"South Indian, Italian, Continental, Chinese, Beverages",2500.0,Drinks & nightlife,5,Very Expensive
+Leon Grill,Yes,Yes,2.2,1276,Mg Road,Pub,Dosa,"Continental, Beverages, South Indian",600.0,Drinks & nightlife,3,Moderate
+Resto_287,Yes,Yes,2.7,2287,Jp Nagar,Bar,Salad,"Italian, North Indian, Mexican, South Indian",600.0,Pubs and bars,4,Moderate
+Resto_457,No,No,3.1,2215,Koramangala,Fine Dining,Pizza,"Continental, Chinese, South Indian, Thai",200.0,Pubs and bars,4,Cheap
+Resto_409,Yes,No,2.4,113,Nan,Bar,Burgers,"Desserts, Fast Food, Mexican",1500.0,Dine-out,3,Expensive
+McDonald's,Yes,Yes,4.5,2744,Jp Nagar,Fine Dining,Burgers,"Italian, Beverages, Fast Food, Desserts",1200.0,Cafes,4,Expensive
+McDonald's,No,Yes,4.4,141,Whitefield,Quick Service Restaurant,Pasta,"Fast Food, North Indian, Beverages, Thai, Mexican",600.0,Dine-out,5,Moderate
+Leon Grill,No,No,4.5,1575,Indiranagar,Bakery,Sushi,"Chinese, Italian",400.0,Delivery,2,Cheap
+Leon Grill,No,No,4.5,2049,Hsr Layout,Bar,Salad,"Thai, Beverages",600.0,Delivery,2,Moderate
+Nandhana Palace,No,Yes,4.5,1563,Whitefield,Bakery,Steak,South Indian,600.0,Buffet,1,Moderate
+Resto_682,Yes,Yes,4.3,173,Jayanagar,Quick Service Restaurant,Steak,"North Indian, Italian, Beverages",200.0,Pubs and bars,3,Cheap
+Resto_401,Yes,No,4.0,2343,Marathahalli,Bakery,Sushi,"South Indian, Beverages, North Indian, Italian, Fast Food",2000.0,Drinks & nightlife,5,Expensive
+Nandhana Palace,No,Yes,4.0,1624,Hsr Layout,Pub,Dosa,"Continental, Mexican, Desserts",2500.0,Drinks & nightlife,3,Very Expensive
+KFC,Yes,No,2.5,1574,Mg Road,Cafe,Steak,"North Indian, Italian, Mexican, Continental",600.0,Buffet,4,Moderate
+Resto_836,No,No,2.4,69,Indiranagar,Casual Dining,Biryani,"Beverages, Desserts, Thai",600.0,Pubs and bars,3,Moderate
+Resto_344,Yes,Yes,4.1,2699,Marathahalli,Quick Service Restaurant,Biryani,"Continental, Italian",2000.0,Drinks & nightlife,2,Expensive
+Onesta,No,Yes,2.1,883,Jayanagar,Pub,Burgers,"Beverages, Mexican, Chinese, Fast Food, South Indian",800.0,Cafes,5,Moderate
+Nandhana Palace,No,No,4.4,666,Jp Nagar,Quick Service Restaurant,Burgers,"Continental, Chinese",3000.0,Dine-out,2,Very Expensive
+Empire Restaurant,Yes,No,2.7,2807,Whitefield,Bar,Dosa,"Mexican, Thai, Chinese, Beverages",800.0,Pubs and bars,4,Moderate
+Nandhana Palace,Yes,No,4.2,1849,Marathahalli,Casual Dining,Steak,"Fast Food, South Indian",3000.0,Delivery,2,Very Expensive
+KFC,Yes,Yes,4.9,1380,Hsr Layout,Fine Dining,Pasta,Italian,400.0,Delivery,1,Cheap
+Nandhana Palace,No,Yes,4.3,1063,Marathahalli,Cafe,Pizza,"South Indian, Fast Food",3000.0,Pubs and bars,2,Very Expensive
+Resto_438,No,Yes,2.3,2920,Mg Road,Bakery,Salad,"Fast Food, Beverages, Continental, North Indian",2000.0,Dine-out,4,Expensive
+Resto_765,No,No,3.3,1076,Marathahalli,Casual Dining,Salad,"Beverages, Thai, Fast Food",600.0,Pubs and bars,3,Moderate
+Resto_225,No,No,2.2,1819,Marathahalli,Casual Dining,Biryani,"Desserts, Thai, Chinese, Italian",200.0,Buffet,4,Cheap
+Resto_97,Yes,Yes,4.8,1523,Marathahalli,Bar,Sushi,Fast Food,600.0,Pubs and bars,1,Moderate
+Pizza Hut,No,Yes,3.2,1139,Hsr Layout,Bar,Pizza,"Continental, North Indian, Mexican, Beverages",2000.0,Pubs and bars,4,Expensive
+Leon Grill,Yes,Yes,2.5,1085,Jp Nagar,Pub,Burgers,"Italian, Continental",1000.0,Pubs and bars,2,Moderate
+Resto_852,No,No,3.6,2786,Jayanagar,Casual Dining,Pasta,"Beverages, South Indian, Thai",2500.0,Dine-out,3,Very Expensive
+Nandhana Palace,No,No,4.6,1956,Whitefield,Cafe,Pizza,"Continental, Italian",2500.0,Delivery,2,Very Expensive
+Burger King,No,No,3.6,2142,Jp Nagar,Casual Dining,Steak,"Desserts, Mexican",1200.0,Cafes,2,Expensive
+Resto_830,No,Yes,4.8,258,Koramangala,Bakery,Salad,"Mexican, Italian, Beverages",1200.0,Drinks & nightlife,3,Expensive
+Leon Grill,Yes,No,3.2,1569,Hsr Layout,Fine Dining,Biryani,"South Indian, Italian, Thai, North Indian",1000.0,Dine-out,4,Moderate
+Burger King,No,Yes,4.5,1673,Marathahalli,Bakery,Burgers,"Mexican, Fast Food",200.0,Pubs and bars,2,Cheap
+Resto_311,Yes,No,2.6,2749,Hsr Layout,Bar,Sushi,"Chinese, South Indian",2000.0,Cafes,2,Expensive
+Resto_373,No,No,3.5,502,Marathahalli,Fine Dining,Pizza,"Beverages, Continental, Desserts, Fast Food, South Indian",400.0,Delivery,5,Cheap
+Resto_134,Yes,No,2.7,2255,Jp Nagar,Quick Service Restaurant,Pasta,"Desserts, Fast Food, South Indian, Thai",1200.0,Buffet,4,Expensive
+Pizza Hut,No,No,2.5,210,Whitefield,Bar,Pasta,"Chinese, Fast Food, Mexican, Italian",400.0,Dine-out,4,Cheap
+Burger King,Yes,Yes,3.9,1532,Whitefield,Quick Service Restaurant,Sushi,Desserts,400.0,Drinks & nightlife,1,Cheap
+Empire Restaurant,Yes,No,4.7,603,Whitefield,Cafe,Burgers,"Fast Food, South Indian, North Indian, Desserts, Mexican",1500.0,Cafes,5,Expensive
+McDonald's,No,No,2.2,1769,Whitefield,Casual Dining,Dosa,"Thai, Beverages, South Indian, Chinese",400.0,Buffet,4,Cheap
+Nandhana Palace,Yes,No,3.1,1598,Mg Road,Pub,Salad,"Italian, South Indian, North Indian",600.0,Buffet,3,Moderate
+Resto_243,Yes,No,4.7,2987,Jp Nagar,Casual Dining,Dosa,"Beverages, South Indian, Chinese, North Indian, Mexican",3000.0,Dine-out,5,Very Expensive
+Resto_709,No,Yes,3.6,571,Jayanagar,Fine Dining,Steak,"North Indian, Chinese, Continental",600.0,Dine-out,3,Moderate
+Resto_32,No,Yes,3.5,1613,Koramangala,Casual Dining,Salad,"South Indian, Desserts, Fast Food, North Indian",1000.0,Drinks & nightlife,4,Moderate
+Resto_804,Yes,No,2.4,1300,Koramangala,Casual Dining,Sushi,Mexican,2500.0,Drinks & nightlife,1,Very Expensive
+Onesta,No,Yes,4.1,1311,Hsr Layout,Quick Service Restaurant,Dosa,"Mexican, North Indian, Italian",600.0,Dine-out,3,Moderate
+Burger King,No,Yes,4.5,2728,Jp Nagar,Cafe,Pizza,"Desserts, South Indian",600.0,Dine-out,2,Moderate
+Pizza Hut,No,No,3.8,564,Whitefield,Casual Dining,Salad,"Continental, Thai, Mexican",1500.0,Pubs and bars,3,Expensive
+Burger King,Yes,Yes,3.6,377,Marathahalli,Fine Dining,Biryani,"Mexican, North Indian, South Indian, Continental",3000.0,Cafes,4,Very Expensive
+Resto_681,Yes,Yes,2.6,643,Mg Road,Bar,Burgers,"Continental, South Indian",1200.0,Delivery,2,Expensive
+Resto_186,No,No,4.9,653,Indiranagar,Cafe,Steak,"Continental, Beverages",200.0,Drinks & nightlife,2,Cheap
+Resto_947,No,Yes,2.4,1103,Hsr Layout,Quick Service Restaurant,Biryani,"North Indian, Thai, Continental",600.0,Buffet,3,Moderate
+Resto_180,No,No,3.6,850,Marathahalli,Quick Service Restaurant,Burgers,"Continental, Chinese, Beverages, Desserts",1000.0,Drinks & nightlife,4,Moderate
+Onesta,No,No,3.7,2968,Mg Road,Casual Dining,Dosa,"Italian, Mexican, Thai, Continental, South Indian",600.0,Buffet,5,Moderate
+Resto_399,No,Yes,3.8,313,Marathahalli,Bar,Biryani,"Italian, Continental, Desserts, Fast Food",2500.0,Delivery,4,Very Expensive
+Nandhana Palace,No,Yes,3.6,2079,Koramangala,Bakery,Sushi,"North Indian, Mexican, Thai, South Indian",200.0,Dine-out,4,Cheap
+Resto_533,Yes,Yes,3.9,2087,Hsr Layout,Casual Dining,Steak,"Fast Food, Desserts, Continental, Thai, Mexican",400.0,Cafes,5,Cheap
+Resto_809,Yes,Yes,4.1,2534,Jp Nagar,Bakery,Dosa,"Mexican, Thai, Continental, Chinese, Italian",600.0,Buffet,5,Moderate
+Resto_271,Yes,Yes,4.0,409,Whitefield,Bar,Salad,"Beverages, Mexican",1500.0,Delivery,2,Expensive
+McDonald's,Yes,Yes,4.1,2641,Hsr Layout,Bakery,Pizza,"Fast Food, North Indian, Desserts",3000.0,Dine-out,3,Very Expensive
+Leon Grill,No,No,3.3,1536,Marathahalli,Casual Dining,Biryani,"South Indian, Desserts, Italian",600.0,Buffet,3,Moderate
+Empire Restaurant,No,No,4.3,725,Jayanagar,Fine Dining,Steak,"Chinese, Mexican",3000.0,Cafes,2,Very Expensive
+Resto_514,No,No,4.2,1427,Marathahalli,Fine Dining,Sushi,"North Indian, Mexican, Beverages",800.0,Pubs and bars,3,Moderate
+Resto_588,No,Yes,4.9,1991,Hsr Layout,Fine Dining,Pasta,"Chinese, Continental, Desserts, North Indian",2500.0,Pubs and bars,4,Very Expensive
+Empire Restaurant,Yes,Yes,4.3,2734,Jp Nagar,Bar,Salad,"Fast Food, Beverages, Mexican, Desserts",2500.0,Cafes,4,Very Expensive
+Pizza Hut,No,No,2.1,1122,Marathahalli,Cafe,Steak,Continental,3000.0,Delivery,1,Very Expensive
+Resto_181,Yes,No,2.1,1224,Whitefield,Bar,Pizza,"North Indian, Mexican",2000.0,Cafes,2,Expensive
+Pizza Hut,Yes,No,3.3,167,Hsr Layout,Pub,Burgers,"Continental, North Indian",2000.0,Dine-out,2,Expensive
+McDonald's,Yes,No,3.9,1228,Marathahalli,Quick Service Restaurant,Pizza,North Indian,2000.0,Buffet,1,Expensive
+Resto_316,Yes,No,3.9,614,Jayanagar,Bar,Dosa,"South Indian, North Indian",1500.0,Pubs and bars,2,Expensive
+Leon Grill,No,Yes,3.5,1441,Whitefield,Casual Dining,Sushi,"Chinese, Thai, Mexican, Fast Food, Desserts",1500.0,Delivery,5,Expensive
+Resto_598,No,Yes,3.1,2524,Mg Road,Bar,Pasta,Fast Food,1500.0,Cafes,1,Expensive
+Empire Restaurant,Yes,No,4.0,948,Koramangala,Quick Service Restaurant,Sushi,"Chinese, Thai, Desserts",2000.0,Pubs and bars,3,Expensive
+Resto_623,No,Yes,2.7,448,Koramangala,Bar,Pasta,Fast Food,1000.0,Dine-out,1,Moderate
+Leon Grill,Yes,Yes,3.6,1886,Jp Nagar,Cafe,Biryani,"Italian, Desserts, Beverages",600.0,Buffet,3,Moderate
+Resto_869,No,No,4.9,1398,Whitefield,Bar,Salad,"Fast Food, Thai, Continental, Mexican, Italian",2500.0,Drinks & nightlife,5,Very Expensive
+Pizza Hut,Yes,Yes,2.3,1256,Mg Road,Fine Dining,Dosa,"North Indian, Thai",600.0,Cafes,2,Moderate
+Burger King,Yes,Yes,3.5,987,Hsr Layout,Pub,Salad,"Continental, Thai, Fast Food, Mexican, Italian",400.0,Buffet,5,Cheap
+Empire Restaurant,No,No,4.1,856,Koramangala,Cafe,Pizza,"Chinese, Continental, Desserts, Fast Food",2500.0,Buffet,4,Very Expensive
+Burger King,Yes,No,4.6,2200,Indiranagar,Fine Dining,Biryani,"Beverages, North Indian, Desserts, Italian, Thai",200.0,Drinks & nightlife,5,Cheap
+McDonald's,Yes,No,3.1,1646,Koramangala,Cafe,Dosa,"Fast Food, Italian",3000.0,Dine-out,2,Very Expensive
+Nandhana Palace,Yes,No,3.6,2876,Mg Road,Bar,Steak,"Italian, Continental, Thai, Chinese, Fast Food",800.0,Cafes,5,Moderate
+Resto_501,Yes,No,4.4,2141,Indiranagar,Bakery,Burgers,"Desserts, North Indian, Beverages",200.0,Drinks & nightlife,3,Cheap
+Leon Grill,Yes,No,2.4,321,Mg Road,Fine Dining,Biryani,Chinese,200.0,Dine-out,1,Cheap
+McDonald's,Yes,No,2.8,2229,Jayanagar,Bakery,Sushi,"Thai, Chinese, Continental, Italian",800.0,Cafes,4,Moderate
+Onesta,No,No,4.2,1810,Jayanagar,Casual Dining,Salad,"Desserts, North Indian, Thai, Mexican, South Indian",1500.0,Drinks & nightlife,5,Expensive
+McDonald's,No,Yes,4.8,1259,Indiranagar,Quick Service Restaurant,Pasta,"Thai, Desserts, Beverages, South Indian, Fast Food",600.0,Dine-out,5,Moderate
+KFC,No,No,2.2,1675,Marathahalli,Cafe,Salad,"Italian, Continental, South Indian",1500.0,Buffet,3,Expensive
+Resto_325,No,Yes,4.0,1448,Indiranagar,Cafe,Pasta,"North Indian, Thai, Mexican",2500.0,Buffet,3,Very Expensive
+McDonald's,Yes,Yes,3.3,167,Jp Nagar,Quick Service Restaurant,Pasta,"Beverages, Chinese",2500.0,Drinks & nightlife,2,Very Expensive
+Pizza Hut,Yes,No,4.8,1550,Indiranagar,Pub,Dosa,"Fast Food, Thai, Italian",400.0,Delivery,3,Cheap
+Burger King,No,Yes,3.0,1919,Whitefield,Quick Service Restaurant,Sushi,"Beverages, Italian, Continental, Thai",400.0,Delivery,4,Cheap
+Pizza Hut,Yes,Yes,3.3,826,Whitefield,Cafe,Pasta,Fast Food,2500.0,Pubs and bars,1,Very Expensive
+Resto_698,No,No,4.8,124,Marathahalli,Pub,Sushi,"Desserts, South Indian, Fast Food, Thai",2500.0,Delivery,4,Very Expensive
+Leon Grill,No,Yes,3.3,695,Whitefield,Cafe,Pizza,Continental,3000.0,Dine-out,1,Very Expensive
+Resto_462,No,No,2.2,118,Mg Road,Fine Dining,Burgers,"North Indian, Continental",2500.0,Buffet,2,Very Expensive
+Resto_673,Yes,Yes,3.3,1077,Indiranagar,Bar,Pizza,"Continental, Chinese",1200.0,Drinks & nightlife,2,Expensive
+Nandhana Palace,No,No,2.1,1052,Indiranagar,Bar,Biryani,"Chinese, Italian, Continental, South Indian",3000.0,Drinks & nightlife,4,Very Expensive
+Resto_309,Yes,Yes,4.6,1695,Mg Road,Quick Service Restaurant,Burgers,"Continental, South Indian, Italian, North Indian",600.0,Buffet,4,Moderate
+Resto_574,Yes,Yes,3.4,547,Indiranagar,Casual Dining,Burgers,"Thai, South Indian, Continental",2000.0,Dine-out,3,Expensive
+Leon Grill,No,No,4.4,652,Koramangala,Pub,Dosa,"Thai, Mexican, Desserts, South Indian",1500.0,Drinks & nightlife,4,Expensive
+Empire Restaurant,No,Yes,3.0,2016,Mg Road,Bakery,Biryani,"North Indian, Beverages, Chinese, Fast Food",600.0,Dine-out,4,Moderate
+Resto_697,Yes,Yes,3.0,1510,Whitefield,Pub,Salad,Fast Food,1000.0,Cafes,1,Moderate
+KFC,Yes,No,3.7,1597,Hsr Layout,Bakery,Salad,"South Indian, Chinese",600.0,Cafes,2,Moderate
+KFC,Yes,No,4.4,780,Jp Nagar,Casual Dining,Salad,"North Indian, Chinese, Desserts, Italian",3000.0,Delivery,4,Very Expensive
+Resto_773,No,No,4.5,2832,Marathahalli,Bar,Burgers,"Italian, Beverages, Chinese",400.0,Pubs and bars,3,Cheap
+McDonald's,No,Yes,2.8,353,Marathahalli,Cafe,Salad,"Italian, South Indian",3000.0,Drinks & nightlife,2,Very Expensive
+Pizza Hut,Yes,Yes,3.9,2373,Indiranagar,Casual Dining,Pizza,"Fast Food, Chinese, Beverages, Desserts",1000.0,Delivery,4,Moderate
+Leon Grill,Yes,No,4.0,1857,Indiranagar,Cafe,Steak,"Mexican, South Indian, Chinese, North Indian",800.0,Dine-out,4,Moderate
+Resto_145,No,No,2.5,1130,Mg Road,Quick Service Restaurant,Salad,"Chinese, Thai, Continental, Fast Food",2000.0,Delivery,4,Expensive
+Burger King,No,Yes,2.2,1008,Jp Nagar,Cafe,Salad,"Desserts, Italian",1500.0,Pubs and bars,2,Expensive
+Nandhana Palace,No,Yes,4.5,380,Jp Nagar,Quick Service Restaurant,Pizza,South Indian,400.0,Cafes,1,Cheap
+Resto_723,No,No,4.5,2043,Nan,Pub,Salad,"Mexican, Continental",1500.0,Buffet,2,Expensive
+Nandhana Palace,No,No,3.7,2942,Mg Road,Bakery,Pasta,"Italian, South Indian, North Indian, Mexican",400.0,Pubs and bars,4,Cheap
+Leon Grill,Yes,No,2.3,1737,Marathahalli,Cafe,Dosa,"Desserts, South Indian, Mexican, Italian, North Indian",1000.0,Buffet,5,Moderate
+Nandhana Palace,Yes,Yes,2.2,2917,Marathahalli,Bar,Sushi,"Beverages, Italian, Continental, Chinese",200.0,Drinks & nightlife,4,Cheap
+Resto_297,No,No,4.4,2824,Indiranagar,Pub,Sushi,"North Indian, Mexican, Chinese",200.0,Cafes,3,Cheap
+Burger King,No,Yes,2.8,166,Indiranagar,Bar,Steak,"Chinese, Italian, Fast Food",400.0,Dine-out,3,Cheap
+Onesta,Yes,Yes,2.0,1478,Jayanagar,Cafe,Steak,"Beverages, Fast Food, Thai, Italian, Chinese",600.0,Delivery,5,Moderate
+Leon Grill,No,Yes,2.6,1257,Mg Road,Bar,Biryani,"Thai, Continental, Beverages",2000.0,Pubs and bars,3,Expensive
+Leon Grill,No,No,4.9,1442,Hsr Layout,Fine Dining,Dosa,North Indian,800.0,Dine-out,1,Moderate
+Resto_93,Yes,Yes,2.9,1270,Mg Road,Bar,Sushi,"Desserts, Continental, North Indian, Mexican, Thai",800.0,Drinks & nightlife,5,Moderate
+McDonald's,No,Yes,4.4,27,Jp Nagar,Casual Dining,Dosa,Thai,200.0,Cafes,1,Cheap
+Nandhana Palace,No,Yes,4.7,838,Indiranagar,Fine Dining,Burgers,Desserts,600.0,Cafes,1,Moderate
+KFC,Yes,Yes,4.1,93,Jp Nagar,Pub,Steak,"South Indian, Desserts",400.0,Buffet,2,Cheap
+Resto_23,No,Yes,4.9,156,Indiranagar,Pub,Dosa,"Thai, Fast Food, Mexican, Continental",2500.0,Delivery,4,Very Expensive
+Leon Grill,No,Yes,2.6,568,Nan,Bar,Pizza,"North Indian, Thai, Beverages, Italian",2500.0,Drinks & nightlife,4,Very Expensive
+Resto_693,Yes,No,3.6,518,Mg Road,Quick Service Restaurant,Pizza,"Fast Food, Continental, Desserts, Chinese, Mexican",200.0,Buffet,5,Cheap
+Resto_871,No,Yes,3.5,1685,Whitefield,Quick Service Restaurant,Sushi,"Mexican, Italian, South Indian, Fast Food, Thai",1000.0,Dine-out,5,Moderate
+Resto_749,Yes,No,3.0,1826,Hsr Layout,Cafe,Dosa,"Desserts, Italian, Fast Food",1200.0,Buffet,3,Expensive
+Resto_393,Yes,No,4.2,17,Indiranagar,Cafe,Steak,"Desserts, Thai, South Indian, Italian, Beverages",400.0,Cafes,5,Cheap
+Resto_621,No,No,4.3,1423,Whitefield,Fine Dining,Burgers,"Continental, North Indian, Chinese, Desserts, Fast Food",3000.0,Dine-out,5,Very Expensive
+Empire Restaurant,No,No,3.8,2432,Koramangala,Fine Dining,Salad,North Indian,200.0,Cafes,1,Cheap
+Resto_217,No,No,2.6,2808,Koramangala,Quick Service Restaurant,Pizza,"Chinese, Beverages, Continental, Desserts",3000.0,Buffet,4,Very Expensive
+KFC,Yes,No,3.0,2230,Marathahalli,Quick Service Restaurant,Biryani,"Beverages, Thai, Mexican, South Indian, Chinese",200.0,Drinks & nightlife,5,Cheap
+Pizza Hut,Yes,Yes,4.2,2586,Jp Nagar,Fine Dining,Burgers,"Fast Food, Thai, Beverages",200.0,Dine-out,3,Cheap
+Resto_55,Yes,Yes,4.7,931,Indiranagar,Bakery,Biryani,Chinese,2000.0,Delivery,1,Expensive
+Pizza Hut,No,No,2.9,68,Jp Nagar,Quick Service Restaurant,Salad,Mexican,3000.0,Drinks & nightlife,1,Very Expensive
+Resto_197,No,Yes,4.0,396,Indiranagar,Fine Dining,Steak,"Beverages, Mexican, Italian",2500.0,Buffet,3,Very Expensive
+Resto_176,No,Yes,2.8,1244,Hsr Layout,Bakery,Pasta,"Fast Food, Desserts, Italian",2500.0,Delivery,3,Very Expensive
+Resto_306,No,No,2.9,2053,Whitefield,Bar,Dosa,Continental,1500.0,Dine-out,1,Expensive
+Nandhana Palace,Yes,Yes,3.1,2401,Koramangala,Quick Service Restaurant,Burgers,"South Indian, Desserts",400.0,Dine-out,2,Cheap
+Leon Grill,No,Yes,3.2,1676,Marathahalli,Bar,Sushi,"Thai, North Indian, Desserts, Chinese, Beverages",2500.0,Drinks & nightlife,5,Very Expensive
+Resto_99,No,Yes,4.8,1309,Jp Nagar,Fine Dining,Pasta,Beverages,2500.0,Pubs and bars,1,Very Expensive
+Burger King,No,Yes,4.4,6,Indiranagar,Casual Dining,Pasta,"Beverages, Mexican, Continental, Thai",1500.0,Pubs and bars,4,Expensive
+Resto_410,Yes,No,2.8,2255,Jayanagar,Fine Dining,Sushi,Desserts,200.0,Buffet,1,Cheap
+Pizza Hut,No,No,4.4,2913,Indiranagar,Bar,Salad,South Indian,600.0,Pubs and bars,1,Moderate
+Nandhana Palace,Yes,Yes,2.2,1170,Marathahalli,Bar,Salad,Mexican,2500.0,Cafes,1,Very Expensive
+Resto_920,No,No,2.4,2360,Hsr Layout,Pub,Dosa,Italian,200.0,Buffet,1,Cheap
+Pizza Hut,No,Yes,3.6,1550,Indiranagar,Casual Dining,Steak,"Italian, Fast Food, Chinese, Continental",1000.0,Buffet,4,Moderate
+Resto_156,No,Yes,2.6,1572,Marathahalli,Bakery,Dosa,"Mexican, Desserts, Beverages, Chinese",400.0,Delivery,4,Cheap
+Resto_950,Yes,Yes,3.8,1208,Jayanagar,Pub,Sushi,"Continental, Mexican, Fast Food, Chinese, North Indian",800.0,Pubs and bars,5,Moderate
+Resto_993,Yes,No,4.3,1515,Indiranagar,Cafe,Dosa,"Chinese, Beverages, Mexican, South Indian, Desserts",200.0,Cafes,5,Cheap
+Resto_692,No,Yes,2.0,789,Whitefield,Quick Service Restaurant,Pizza,"Fast Food, Continental, Thai, Beverages",1500.0,Buffet,4,Expensive
+Nandhana Palace,Yes,Yes,2.9,1485,Nan,Bar,Burgers,"Fast Food, Beverages, Thai, Chinese",1000.0,Dine-out,4,Moderate
+Resto_424,No,Yes,2.9,523,Marathahalli,Bar,Sushi,"Thai, Mexican, Continental",1000.0,Cafes,3,Moderate
+KFC,No,No,4.3,2928,Jayanagar,Fine Dining,Salad,"Beverages, Italian, Chinese, South Indian",2500.0,Delivery,4,Very Expensive
+Nandhana Palace,No,No,3.5,763,Hsr Layout,Pub,Steak,"Beverages, North Indian, Fast Food, Chinese",2500.0,Pubs and bars,4,Very Expensive
+McDonald's,Yes,Yes,4.2,1117,Marathahalli,Pub,Biryani,"Mexican, Chinese",800.0,Cafes,2,Moderate
+Resto_208,No,Yes,4.2,232,Mg Road,Fine Dining,Steak,"South Indian, North Indian, Desserts",1000.0,Cafes,3,Moderate
+Pizza Hut,No,Yes,3.4,1162,Whitefield,Quick Service Restaurant,Pizza,"Italian, Thai, Continental, Beverages, Desserts",2500.0,Dine-out,5,Very Expensive
+Resto_564,Yes,No,2.8,2382,Mg Road,Cafe,Salad,"Italian, Mexican, Thai, Chinese",2000.0,Dine-out,4,Expensive
+Nandhana Palace,No,No,3.0,2283,Whitefield,Quick Service Restaurant,Pasta,Mexican,400.0,Drinks & nightlife,1,Cheap
+McDonald's,Yes,Yes,4.0,2936,Koramangala,Fine Dining,Pasta,"Beverages, South Indian",2500.0,Dine-out,2,Very Expensive
+KFC,No,Yes,4.4,1782,Indiranagar,Fine Dining,Biryani,"North Indian, Desserts",1200.0,Dine-out,2,Expensive
+McDonald's,Yes,No,2.2,2593,Indiranagar,Pub,Dosa,"Italian, Thai, Beverages, Desserts, Mexican",600.0,Dine-out,5,Moderate
+Resto_747,No,Yes,3.8,1536,Koramangala,Casual Dining,Dosa,Thai,1000.0,Delivery,1,Moderate
+Nandhana Palace,No,No,4.5,2198,Marathahalli,Cafe,Pizza,"North Indian, Continental, Desserts, Italian, South Indian",600.0,Cafes,5,Moderate
+Onesta,No,No,2.1,2117,Indiranagar,Bakery,Pizza,"Mexican, Beverages, North Indian, Thai",2500.0,Dine-out,4,Very Expensive
+Resto_536,Yes,Yes,3.5,1489,Jayanagar,Bakery,Dosa,Italian,1000.0,Pubs and bars,1,Moderate
+McDonald's,No,Yes,4.7,975,Hsr Layout,Casual Dining,Burgers,"North Indian, Italian, Mexican, Thai, Continental",3000.0,Delivery,5,Very Expensive
+McDonald's,No,No,2.5,2484,Indiranagar,Bar,Pizza,"South Indian, Beverages, Italian",1000.0,Delivery,3,Moderate
+McDonald's,Yes,Yes,3.5,522,Whitefield,Casual Dining,Pizza,"Beverages, North Indian, Fast Food",2500.0,Drinks & nightlife,3,Very Expensive
+Resto_506,No,No,4.2,2062,Koramangala,Cafe,Burgers,Fast Food,400.0,Buffet,1,Cheap
+Nandhana Palace,Yes,Yes,2.5,720,Koramangala,Bar,Sushi,"Desserts, South Indian, Continental, North Indian",200.0,Drinks & nightlife,4,Cheap
+Leon Grill,No,Yes,4.3,779,Indiranagar,Casual Dining,Biryani,"Thai, Mexican, Beverages, Italian",200.0,Cafes,4,Cheap
+Onesta,Yes,No,4.5,1593,Jp Nagar,Cafe,Pizza,"Italian, North Indian, Mexican, Beverages, South Indian",800.0,Dine-out,5,Moderate
+Resto_204,No,No,3.8,507,Koramangala,Cafe,Sushi,"Desserts, Fast Food, South Indian",2000.0,Dine-out,3,Expensive
+KFC,No,Yes,4.2,2377,Koramangala,Bar,Pasta,"Desserts, South Indian, Beverages",2000.0,Dine-out,3,Expensive
+McDonald's,Yes,No,3.7,718,Mg Road,Quick Service Restaurant,Pasta,"South Indian, Fast Food, North Indian",3000.0,Buffet,3,Very Expensive
+KFC,No,Yes,4.8,2048,Indiranagar,Bar,Steak,"Thai, South Indian, Italian, Desserts, Fast Food",400.0,Buffet,5,Cheap
+Pizza Hut,No,Yes,2.0,1456,Hsr Layout,Fine Dining,Steak,"South Indian, Continental, North Indian",2500.0,Pubs and bars,3,Very Expensive
+KFC,Yes,Yes,3.1,1395,Hsr Layout,Bar,Salad,"Mexican, Fast Food, Thai, Continental, Desserts",800.0,Delivery,5,Moderate
+Resto_743,No,Yes,4.7,861,Jayanagar,Quick Service Restaurant,Sushi,"Italian, Mexican",600.0,Buffet,2,Moderate
+Resto_483,Yes,Yes,3.1,1532,Jp Nagar,Pub,Sushi,"Italian, North Indian, Fast Food, Mexican",2500.0,Dine-out,4,Very Expensive
+Resto_365,No,Yes,2.6,1929,Marathahalli,Casual Dining,Burgers,"South Indian, Italian, Desserts, Chinese",1500.0,Pubs and bars,4,Expensive
+Resto_910,Yes,Yes,4.4,978,Mg Road,Casual Dining,Dosa,"North Indian, Chinese, Continental, Desserts",2500.0,Buffet,4,Very Expensive
+Empire Restaurant,Yes,No,4.0,39,Jp Nagar,Casual Dining,Pasta,"Continental, Chinese, Italian, Fast Food",800.0,Pubs and bars,4,Moderate
+Resto_13,No,No,3.2,240,Jayanagar,Bakery,Dosa,Mexican,1000.0,Cafes,1,Moderate
+Resto_891,Yes,No,2.5,414,Jayanagar,Fine Dining,Steak,"Continental, North Indian, Beverages, Fast Food, Chinese",2500.0,Drinks & nightlife,5,Very Expensive
+KFC,Yes,No,3.8,1753,Jayanagar,Pub,Dosa,"Italian, Fast Food",200.0,Buffet,2,Cheap
+Resto_829,Yes,No,3.2,53,Whitefield,Fine Dining,Pasta,"Thai, Continental",3000.0,Buffet,2,Very Expensive
+Resto_51,Yes,No,3.7,559,Indiranagar,Quick Service Restaurant,Salad,"Thai, Beverages, Continental, Mexican",200.0,Dine-out,4,Cheap
+Burger King,No,Yes,2.1,2057,Jp Nagar,Bar,Biryani,Desserts,400.0,Pubs and bars,1,Cheap
+Resto_815,Yes,No,4.7,454,Hsr Layout,Fine Dining,Biryani,"Continental, Chinese, Thai",3000.0,Buffet,3,Very Expensive
+Leon Grill,No,No,4.7,2989,Hsr Layout,Fine Dining,Burgers,"Mexican, Thai, Desserts",2500.0,Delivery,3,Very Expensive
+Burger King,Yes,Yes,4.8,375,Hsr Layout,Bakery,Biryani,"Desserts, Thai, South Indian, Fast Food",1000.0,Dine-out,4,Moderate
+Resto_445,Yes,No,4.2,26,Hsr Layout,Bar,Sushi,"Thai, Continental, South Indian, North Indian",1000.0,Pubs and bars,4,Moderate
+Resto_31,No,No,4.5,1716,Hsr Layout,Bakery,Steak,"Continental, Mexican",2000.0,Pubs and bars,2,Expensive
+Leon Grill,Yes,Yes,2.5,1115,Nan,Pub,Burgers,"North Indian, Mexican, South Indian, Chinese, Fast Food",2000.0,Buffet,5,Expensive
+Resto_833,Yes,No,3.8,2301,Jayanagar,Bar,Burgers,"Thai, Desserts, Fast Food",3000.0,Buffet,3,Very Expensive
+Resto_685,No,No,4.6,2184,Hsr Layout,Bakery,Salad,Desserts,1500.0,Dine-out,1,Expensive
+Pizza Hut,Yes,Yes,2.6,1162,Koramangala,Bakery,Dosa,"South Indian, Desserts, Beverages",1200.0,Pubs and bars,3,Expensive
+Burger King,No,Yes,4.4,2949,Jp Nagar,Bakery,Burgers,"Fast Food, Beverages, North Indian, Continental, Desserts",2000.0,Buffet,5,Expensive
+Empire Restaurant,Yes,Yes,3.4,1322,Jp Nagar,Pub,Pasta,"Fast Food, North Indian, Thai, Desserts",400.0,Cafes,4,Cheap
+Resto_402,Yes,Yes,3.1,2391,Koramangala,Bar,Sushi,"Mexican, Chinese, Fast Food",1200.0,Delivery,3,Expensive
+Resto_20,No,Yes,2.1,1493,Koramangala,Quick Service Restaurant,Pasta,"Italian, Chinese",1200.0,Dine-out,2,Expensive
+Onesta,No,No,4.9,2353,Whitefield,Bakery,Biryani,"Beverages, Continental",1500.0,Buffet,2,Expensive
+McDonald's,Yes,No,4.2,1176,Whitefield,Cafe,Pizza,Italian,1000.0,Delivery,1,Moderate
+Resto_157,No,Yes,3.6,2028,Indiranagar,Pub,Biryani,Continental,2500.0,Pubs and bars,1,Very Expensive
+Nandhana Palace,No,No,3.1,1882,Koramangala,Casual Dining,Dosa,"Beverages, Continental",600.0,Pubs and bars,2,Moderate
+Nandhana Palace,No,No,4.0,1124,Jp Nagar,Pub,Pizza,"Beverages, Italian, Fast Food, Continental",200.0,Cafes,4,Cheap
+Leon Grill,No,Yes,4.8,2852,Mg Road,Fine Dining,Pizza,"Thai, South Indian",1200.0,Drinks & nightlife,2,Expensive
+Onesta,No,No,3.6,1865,Jp Nagar,Bar,Biryani,"Italian, Mexican",800.0,Drinks & nightlife,2,Moderate
+KFC,No,No,4.8,1854,Jayanagar,Cafe,Burgers,"Fast Food, Beverages, Continental, Mexican",2500.0,Dine-out,4,Very Expensive
+Resto_220,No,No,2.3,715,Koramangala,Bar,Biryani,"Thai, Fast Food, Mexican",400.0,Dine-out,3,Cheap
+Resto_716,No,No,4.8,457,Jayanagar,Bakery,Salad,"Mexican, Chinese, South Indian, North Indian, Desserts",3000.0,Cafes,5,Very Expensive
+KFC,No,Yes,2.8,2719,Jp Nagar,Casual Dining,Burgers,"Continental, Italian",800.0,Cafes,2,Moderate
+Resto_54,Yes,Yes,4.8,1386,Mg Road,Fine Dining,Salad,Thai,2500.0,Buffet,1,Very Expensive
+Resto_996,Yes,No,2.6,887,Nan,Quick Service Restaurant,Salad,"Italian, Mexican, Desserts, Thai, Continental",400.0,Drinks & nightlife,5,Cheap
+Resto_461,Yes,No,2.7,495,Koramangala,Cafe,Steak,"Fast Food, Italian",2000.0,Delivery,2,Expensive
+KFC,Yes,No,2.3,2061,Whitefield,Cafe,Sushi,North Indian,1000.0,Cafes,1,Moderate
+Leon Grill,No,Yes,2.0,2873,Hsr Layout,Cafe,Salad,Beverages,2000.0,Buffet,1,Expensive
+Onesta,Yes,Yes,2.6,396,Koramangala,Quick Service Restaurant,Salad,Fast Food,1500.0,Dine-out,1,Expensive
+Resto_294,No,No,3.6,1329,Jp Nagar,Bakery,Sushi,"Thai, Italian, Beverages, Desserts",2500.0,Cafes,4,Very Expensive
+Resto_524,Yes,Yes,4.1,656,Jp Nagar,Bakery,Salad,"Italian, Continental, Desserts",400.0,Delivery,3,Cheap
+Empire Restaurant,Yes,Yes,3.1,2617,Jp Nagar,Bar,Biryani,Beverages,800.0,Cafes,1,Moderate
+Nandhana Palace,Yes,Yes,2.4,1760,Mg Road,Pub,Salad,"North Indian, Mexican, Fast Food, Continental, Italian",600.0,Cafes,5,Moderate
+Resto_967,No,No,3.6,601,Jp Nagar,Pub,Burgers,Continental,200.0,Dine-out,1,Cheap
+Nandhana Palace,Yes,No,2.1,2565,Jp Nagar,Bar,Sushi,"Italian, Chinese, Desserts",800.0,Buffet,3,Moderate
+Resto_972,Yes,No,2.4,2406,Whitefield,Bar,Biryani,"Continental, North Indian, Beverages, Mexican, Chinese",2000.0,Pubs and bars,5,Expensive
+Pizza Hut,No,No,3.7,2552,Nan,Cafe,Burgers,"Fast Food, Desserts, Beverages, Italian, Chinese",3000.0,Delivery,5,Very Expensive
+McDonald's,Yes,Yes,3.1,2938,Mg Road,Fine Dining,Sushi,"Mexican, Italian, Beverages, South Indian, North Indian",1000.0,Pubs and bars,5,Moderate
+Resto_714,No,Yes,4.0,435,Marathahalli,Bar,Biryani,Thai,400.0,Dine-out,1,Cheap
+Resto_894,Yes,Yes,2.6,621,Mg Road,Pub,Pizza,"Continental, Italian, North Indian, Desserts, Chinese",200.0,Dine-out,5,Cheap
+Resto_733,No,Yes,4.1,1002,Whitefield,Quick Service Restaurant,Pasta,"Desserts, Thai, Fast Food",1000.0,Dine-out,3,Moderate
+Empire Restaurant,Yes,No,2.4,2312,Hsr Layout,Casual Dining,Pasta,"Italian, Fast Food, Beverages, South Indian, Chinese",3000.0,Buffet,5,Very Expensive
+Resto_592,No,Yes,2.9,2760,Mg Road,Quick Service Restaurant,Burgers,"North Indian, Desserts, South Indian, Thai, Italian",3000.0,Cafes,5,Very Expensive
+Resto_122,No,No,2.6,547,Marathahalli,Cafe,Burgers,"Fast Food, Thai, Mexican, Beverages",2500.0,Pubs and bars,4,Very Expensive
+Pizza Hut,Yes,Yes,3.6,641,Koramangala,Bakery,Salad,"Fast Food, Desserts, Continental, North Indian",800.0,Delivery,4,Moderate
+Nandhana Palace,Yes,No,3.4,656,Hsr Layout,Bakery,Pizza,"Mexican, Fast Food",3000.0,Dine-out,2,Very Expensive
+Pizza Hut,Yes,No,3.3,339,Jayanagar,Bakery,Pasta,"Italian, South Indian, Fast Food, Mexican, North Indian",800.0,Buffet,5,Moderate
+McDonald's,No,No,3.8,2650,Indiranagar,Quick Service Restaurant,Steak,"Thai, Chinese, Desserts, Mexican, South Indian",800.0,Pubs and bars,5,Moderate
+Resto_413,Yes,No,4.0,462,Jp Nagar,Pub,Dosa,"Desserts, Italian, Continental, Mexican",600.0,Delivery,4,Moderate
+Resto_259,No,No,3.6,2312,Jp Nagar,Pub,Pasta,"Mexican, Italian, Fast Food",2500.0,Drinks & nightlife,3,Very Expensive
+Burger King,Yes,Yes,4.7,1697,Jayanagar,Pub,Biryani,"Fast Food, South Indian, Italian, Chinese",1500.0,Drinks & nightlife,4,Expensive
+Onesta,No,No,4.8,260,Marathahalli,Bakery,Salad,"Beverages, Desserts, Mexican, Continental, Chinese",3000.0,Pubs and bars,5,Very Expensive
+Onesta,Yes,Yes,2.9,339,Jp Nagar,Pub,Burgers,"Italian, Chinese",400.0,Delivery,2,Cheap
+Leon Grill,No,Yes,3.5,481,Indiranagar,Bakery,Steak,"Fast Food, Beverages",200.0,Drinks & nightlife,2,Cheap
+McDonald's,Yes,Yes,3.3,1122,Indiranagar,Casual Dining,Biryani,"South Indian, Thai",2000.0,Pubs and bars,2,Expensive
+Resto_655,No,Yes,2.1,1424,Koramangala,Pub,Steak,"Continental, Italian, North Indian",1200.0,Pubs and bars,3,Expensive
+Resto_127,No,Yes,4.7,2969,Indiranagar,Casual Dining,Salad,"Fast Food, North Indian, Italian, Chinese",400.0,Buffet,4,Cheap
+Onesta,No,Yes,3.0,1102,Jp Nagar,Quick Service Restaurant,Burgers,"South Indian, Fast Food, Italian, Mexican",3000.0,Delivery,4,Very Expensive
+Resto_140,Yes,Yes,4.1,1631,Indiranagar,Quick Service Restaurant,Sushi,"Fast Food, Italian",3000.0,Cafes,2,Very Expensive
+Burger King,No,No,3.7,676,Marathahalli,Bakery,Biryani,"Fast Food, Continental, Italian, North Indian, Beverages",400.0,Delivery,5,Cheap
+Empire Restaurant,Yes,No,4.8,1352,Jp Nagar,Fine Dining,Sushi,Continental,2500.0,Cafes,1,Very Expensive
+Pizza Hut,Yes,No,4.8,2315,Jp Nagar,Casual Dining,Salad,"Desserts, Italian, Beverages, South Indian",200.0,Dine-out,4,Cheap
+KFC,Yes,No,2.8,2803,Jp Nagar,Cafe,Steak,"Thai, Desserts, South Indian, Beverages, Italian",600.0,Buffet,5,Moderate
+Resto_859,No,Yes,2.3,2800,Jayanagar,Pub,Salad,Beverages,2000.0,Drinks & nightlife,1,Expensive
+Resto_487,Yes,No,3.0,1847,Marathahalli,Bakery,Burgers,"Thai, Desserts, Fast Food, South Indian",1500.0,Drinks & nightlife,4,Expensive
+Resto_263,Yes,Yes,2.3,1130,Mg Road,Quick Service Restaurant,Sushi,"Mexican, Italian, North Indian, Thai",400.0,Drinks & nightlife,4,Cheap
+Resto_369,No,Yes,2.3,1965,Whitefield,Cafe,Pasta,"Fast Food, North Indian, Desserts, Italian",600.0,Drinks & nightlife,4,Moderate
+Burger King,Yes,No,4.6,604,Marathahalli,Fine Dining,Salad,"Beverages, South Indian, Desserts, Mexican",1200.0,Drinks & nightlife,4,Expensive
+Leon Grill,Yes,Yes,2.7,2543,Jayanagar,Bar,Sushi,"North Indian, Thai, Chinese",1000.0,Dine-out,3,Moderate
+Resto_56,Yes,No,3.2,1000,Mg Road,Pub,Burgers,"South Indian, Fast Food",400.0,Cafes,2,Cheap
+Leon Grill,No,Yes,4.2,2634,Jp Nagar,Fine Dining,Biryani,"North Indian, Mexican, South Indian, Thai, Beverages",800.0,Pubs and bars,5,Moderate
+Resto_546,Yes,No,3.2,1552,Jayanagar,Quick Service Restaurant,Dosa,Thai,800.0,Drinks & nightlife,1,Moderate
+Resto_690,No,Yes,3.5,837,Jp Nagar,Pub,Biryani,"Continental, Desserts, Beverages, Chinese, South Indian",600.0,Drinks & nightlife,5,Moderate
+Resto_740,Yes,No,3.6,880,Marathahalli,Quick Service Restaurant,Biryani,"North Indian, Mexican, Chinese, Thai, Italian",800.0,Drinks & nightlife,5,Moderate
+Onesta,No,No,2.9,320,Hsr Layout,Cafe,Pizza,"South Indian, Mexican, Desserts",2000.0,Buffet,3,Expensive
+Resto_987,No,No,3.5,146,Marathahalli,Casual Dining,Pasta,"South Indian, Italian, Mexican",2000.0,Delivery,3,Expensive
+Resto_348,Yes,No,4.0,278,Koramangala,Bakery,Burgers,Beverages,400.0,Pubs and bars,1,Cheap
+Leon Grill,No,Yes,4.7,1686,Hsr Layout,Quick Service Restaurant,Burgers,"Chinese, Mexican",200.0,Cafes,2,Cheap
+Onesta,Yes,Yes,4.4,1366,Hsr Layout,Quick Service Restaurant,Pizza,Chinese,1200.0,Drinks & nightlife,1,Expensive
+KFC,No,No,4.1,255,Jayanagar,Pub,Pasta,"Beverages, Thai",2000.0,Cafes,2,Expensive
+Resto_286,Yes,Yes,3.7,2829,Marathahalli,Fine Dining,Biryani,"South Indian, Thai, Chinese, Desserts, Mexican",2000.0,Delivery,5,Expensive
+Resto_827,Yes,No,3.3,2710,Jayanagar,Cafe,Burgers,"South Indian, Italian, Chinese, North Indian, Beverages",2000.0,Delivery,5,Expensive
+Nandhana Palace,Yes,Yes,3.3,1728,Jayanagar,Quick Service Restaurant,Pizza,"Italian, Chinese, Desserts, Mexican",2500.0,Dine-out,4,Very Expensive
+McDonald's,No,No,4.3,1741,Mg Road,Quick Service Restaurant,Biryani,Continental,2000.0,Drinks & nightlife,1,Expensive
+Resto_322,No,Yes,2.6,2520,Mg Road,Bakery,Biryani,Thai,1200.0,Pubs and bars,1,Expensive
+Resto_591,No,No,3.6,658,Mg Road,Quick Service Restaurant,Sushi,"Mexican, North Indian, Italian, Beverages, Thai",3000.0,Delivery,5,Very Expensive
+Empire Restaurant,Yes,Yes,2.8,2521,Marathahalli,Cafe,Steak,"Thai, Continental",3000.0,Pubs and bars,2,Very Expensive
+Resto_115,No,No,4.0,1555,Mg Road,Bar,Sushi,"South Indian, Continental, North Indian",1000.0,Cafes,3,Moderate
+Burger King,No,No,2.6,1736,Jayanagar,Pub,Dosa,"Continental, Fast Food",3000.0,Cafes,2,Very Expensive
+Resto_47,Yes,No,3.3,1139,Jayanagar,Pub,Pasta,"Desserts, Chinese, Fast Food, South Indian",1500.0,Drinks & nightlife,4,Expensive
+McDonald's,Yes,No,3.2,867,Marathahalli,Quick Service Restaurant,Biryani,"Continental, Thai, South Indian",3000.0,Delivery,3,Very Expensive
+Empire Restaurant,No,Yes,3.4,617,Koramangala,Bakery,Biryani,Thai,400.0,Dine-out,1,Cheap
+McDonald's,No,No,3.0,1870,Koramangala,Casual Dining,Sushi,South Indian,1000.0,Drinks & nightlife,1,Moderate
+Resto_626,No,No,4.5,716,Whitefield,Fine Dining,Sushi,"Thai, Mexican, Beverages",1000.0,Buffet,3,Moderate
+Burger King,No,No,3.3,500,Whitefield,Bakery,Biryani,"Italian, South Indian, North Indian, Desserts",200.0,Dine-out,4,Cheap
+Nandhana Palace,Yes,Yes,2.6,696,Mg Road,Bar,Pasta,"Chinese, Continental, Beverages, Desserts",2500.0,Delivery,4,Very Expensive
+Leon Grill,No,No,2.5,1652,Koramangala,Cafe,Pizza,"South Indian, Italian",200.0,Drinks & nightlife,2,Cheap
+Burger King,No,No,4.4,656,Whitefield,Pub,Salad,Thai,1500.0,Pubs and bars,1,Expensive
+McDonald's,No,Yes,3.5,1076,Koramangala,Pub,Dosa,Italian,2500.0,Cafes,1,Very Expensive
+Nandhana Palace,Yes,Yes,4.4,1195,Jp Nagar,Fine Dining,Pizza,North Indian,600.0,Drinks & nightlife,1,Moderate
+Onesta,Yes,Yes,2.3,2798,Jayanagar,Pub,Biryani,"Fast Food, South Indian, Desserts",600.0,Buffet,3,Moderate
+Resto_945,Yes,Yes,3.7,1952,Whitefield,Bakery,Sushi,"Chinese, South Indian, Beverages, Mexican, Desserts",2500.0,Cafes,5,Very Expensive
+Resto_146,Yes,No,3.8,1349,Marathahalli,Quick Service Restaurant,Salad,"Fast Food, South Indian, Continental, Beverages",3000.0,Drinks & nightlife,4,Very Expensive
+Onesta,Yes,No,2.6,586,Koramangala,Cafe,Burgers,"Chinese, Continental, Desserts, Fast Food",2000.0,Dine-out,4,Expensive
+Empire Restaurant,Yes,No,2.1,1366,Jayanagar,Fine Dining,Pasta,"South Indian, Desserts, Mexican",2500.0,Buffet,3,Very Expensive
+Leon Grill,Yes,No,4.7,207,Jayanagar,Pub,Pasta,"Mexican, Desserts, North Indian, Italian",1500.0,Drinks & nightlife,4,Expensive
+Resto_735,No,No,2.1,866,Whitefield,Cafe,Sushi,"North Indian, Continental, Thai, Desserts, Beverages",2500.0,Pubs and bars,5,Very Expensive
+KFC,No,Yes,4.6,2340,Jayanagar,Bar,Salad,"Continental, Beverages, Chinese",600.0,Buffet,3,Moderate
+Empire Restaurant,Yes,No,4.6,362,Koramangala,Bakery,Pizza,"Desserts, Chinese",1200.0,Dine-out,2,Expensive
+Resto_704,No,No,2.5,816,Jayanagar,Quick Service Restaurant,Sushi,"Desserts, Continental, Chinese",2000.0,Pubs and bars,3,Expensive
+McDonald's,Yes,No,2.3,2759,Jp Nagar,Casual Dining,Salad,"South Indian, Desserts, Thai, Fast Food, Chinese",3000.0,Pubs and bars,5,Very Expensive
+Onesta,Yes,Yes,2.8,2302,Whitefield,Cafe,Burgers,Fast Food,3000.0,Pubs and bars,1,Very Expensive
+Resto_163,No,Yes,4.5,1807,Marathahalli,Casual Dining,Dosa,"Italian, South Indian, Continental, Chinese",1000.0,Delivery,4,Moderate
+Resto_516,No,No,3.5,2183,Mg Road,Pub,Pasta,"Mexican, Chinese, Beverages",3000.0,Drinks & nightlife,3,Very Expensive
+Resto_644,Yes,Yes,3.2,2238,Indiranagar,Quick Service Restaurant,Sushi,"Beverages, Desserts",800.0,Drinks & nightlife,2,Moderate
+Resto_103,No,Yes,3.8,382,Jayanagar,Pub,Pizza,"South Indian, Fast Food, Thai, Mexican, Continental",200.0,Delivery,5,Cheap
+Resto_98,Yes,Yes,3.4,1585,Indiranagar,Quick Service Restaurant,Pizza,"Desserts, Italian, Continental",2000.0,Cafes,3,Expensive
+Resto_272,No,Yes,4.5,2117,Jp Nagar,Bar,Burgers,"Continental, Fast Food, North Indian, Italian",400.0,Drinks & nightlife,4,Cheap
+Resto_508,Yes,No,2.8,97,Hsr Layout,Bar,Burgers,"Thai, Italian, Beverages",2500.0,Buffet,3,Very Expensive
+Resto_434,No,No,3.3,2745,Marathahalli,Pub,Pizza,"Thai, South Indian, Italian",600.0,Cafes,3,Moderate
+Resto_763,No,No,3.3,2419,Whitefield,Bar,Steak,"Thai, Mexican",1200.0,Pubs and bars,2,Expensive
+Resto_482,Yes,No,4.6,1386,Hsr Layout,Quick Service Restaurant,Pizza,"Italian, Thai, Beverages, Desserts",600.0,Delivery,4,Moderate
+Leon Grill,No,No,2.0,2014,Marathahalli,Quick Service Restaurant,Sushi,Mexican,1000.0,Dine-out,1,Moderate
+Pizza Hut,No,No,4.3,630,Whitefield,Quick Service Restaurant,Biryani,"Chinese, Continental, Mexican, Fast Food",2000.0,Delivery,4,Expensive
+McDonald's,No,No,2.6,182,Marathahalli,Casual Dining,Burgers,Desserts,1500.0,Cafes,1,Expensive
+Pizza Hut,Yes,No,4.4,261,Indiranagar,Casual Dining,Sushi,"Fast Food, Italian, Chinese, Mexican",800.0,Delivery,4,Moderate
+Resto_138,Yes,No,4.5,2677,Koramangala,Casual Dining,Salad,"Mexican, Fast Food, Desserts, North Indian",200.0,Cafes,4,Cheap
+Resto_299,No,No,3.7,368,Hsr Layout,Bakery,Steak,"Mexican, South Indian, Beverages",1200.0,Drinks & nightlife,3,Expensive
+Empire Restaurant,Yes,Yes,4.3,1106,Jayanagar,Casual Dining,Pizza,"Thai, Chinese, Desserts, Continental",400.0,Drinks & nightlife,4,Cheap
+Onesta,No,No,4.3,1736,Mg Road,Cafe,Sushi,"Fast Food, Chinese, South Indian, Beverages, Desserts",2000.0,Delivery,5,Expensive
+Resto_864,Yes,No,3.6,2282,Whitefield,Bakery,Burgers,South Indian,3000.0,Dine-out,1,Very Expensive
+KFC,No,No,3.7,373,Whitefield,Fine Dining,Steak,"Thai, Continental, Mexican, Beverages",600.0,Cafes,4,Moderate
+Resto_801,Yes,Yes,3.4,520,Koramangala,Bakery,Burgers,"Chinese, Fast Food, Italian, North Indian",1500.0,Cafes,4,Expensive
+Nandhana Palace,No,Yes,2.1,145,Marathahalli,Pub,Biryani,"Thai, Mexican",2000.0,Delivery,2,Expensive
+Pizza Hut,No,Yes,4.2,1218,Hsr Layout,Bar,Pizza,"Desserts, Thai",1500.0,Cafes,2,Expensive
+Resto_353,Yes,No,3.7,2111,Marathahalli,Bakery,Pizza,"Mexican, Chinese, Italian, North Indian",1500.0,Buffet,4,Expensive
+Resto_553,No,Yes,4.3,422,Jayanagar,Cafe,Pasta,"South Indian, Italian, Chinese, Desserts, Beverages",200.0,Cafes,5,Cheap
+Onesta,Yes,No,2.1,2062,Hsr Layout,Bar,Sushi,"Thai, North Indian",3000.0,Drinks & nightlife,2,Very Expensive
+Resto_378,Yes,No,2.4,1836,Jayanagar,Pub,Sushi,"Chinese, North Indian, Mexican",2000.0,Dine-out,3,Expensive
+Leon Grill,Yes,Yes,2.3,963,Marathahalli,Pub,Sushi,"Thai, Mexican, Italian, Fast Food, Beverages",1200.0,Dine-out,5,Expensive
+Empire Restaurant,Yes,No,3.9,2703,Jp Nagar,Bar,Burgers,North Indian,1000.0,Cafes,1,Moderate
+McDonald's,Yes,No,3.5,2636,Indiranagar,Bar,Sushi,"Italian, Chinese, Beverages",400.0,Dine-out,3,Cheap
+Resto_164,Yes,Yes,2.9,2864,Hsr Layout,Bakery,Pasta,Chinese,200.0,Buffet,1,Cheap
+Onesta,No,Yes,2.9,607,Indiranagar,Cafe,Dosa,"Fast Food, Beverages, Thai",1500.0,Cafes,3,Expensive
+Onesta,Yes,Yes,4.9,1484,Marathahalli,Pub,Pizza,"South Indian, Desserts, North Indian, Italian, Thai",3000.0,Drinks & nightlife,5,Very Expensive
+Resto_499,No,Yes,2.4,2745,Marathahalli,Bakery,Pasta,"Chinese, Fast Food, Italian, Thai",2000.0,Dine-out,4,Expensive
+Resto_637,Yes,Yes,4.2,985,Jayanagar,Pub,Sushi,"Italian, Desserts, Beverages, South Indian, Mexican",400.0,Pubs and bars,5,Cheap
+Resto_58,No,Yes,4.5,436,Hsr Layout,Bakery,Salad,"Thai, Continental, Beverages, North Indian, Fast Food",1500.0,Drinks & nightlife,5,Expensive
+Resto_940,Yes,No,3.8,1823,Whitefield,Quick Service Restaurant,Salad,"Fast Food, Italian, North Indian",800.0,Delivery,3,Moderate
+Leon Grill,No,No,2.0,930,Marathahalli,Quick Service Restaurant,Biryani,"Mexican, Desserts, Beverages, South Indian",800.0,Dine-out,4,Moderate
+Empire Restaurant,No,No,2.5,2448,Mg Road,Bar,Pizza,"Fast Food, Mexican, Continental, Beverages, Desserts",3000.0,Buffet,5,Very Expensive
+Leon Grill,No,No,4.0,1929,Indiranagar,Casual Dining,Dosa,"Chinese, North Indian, Continental, Fast Food, Beverages",200.0,Pubs and bars,5,Cheap
+Leon Grill,Yes,Yes,2.2,967,Hsr Layout,Bakery,Biryani,Italian,600.0,Cafes,1,Moderate
+McDonald's,No,Yes,3.0,967,Koramangala,Fine Dining,Dosa,Desserts,1000.0,Pubs and bars,1,Moderate
+Nandhana Palace,Yes,No,4.3,391,Jp Nagar,Fine Dining,Pasta,"Continental, Beverages, Fast Food, Desserts, North Indian",200.0,Drinks & nightlife,5,Cheap
+McDonald's,Yes,No,4.5,583,Jayanagar,Cafe,Salad,"Fast Food, Continental",800.0,Pubs and bars,2,Moderate
+Onesta,Yes,No,3.2,2309,Koramangala,Pub,Biryani,"Continental, North Indian, Mexican, South Indian",200.0,Cafes,4,Cheap
+KFC,No,No,3.6,2498,Marathahalli,Cafe,Steak,Thai,1000.0,Drinks & nightlife,1,Moderate
+Resto_233,No,Yes,4.0,2301,Hsr Layout,Fine Dining,Steak,"Mexican, Italian, Continental, Thai, Fast Food",200.0,Pubs and bars,5,Cheap
+Leon Grill,No,Yes,2.1,2627,Jayanagar,Pub,Sushi,Beverages,1000.0,Drinks & nightlife,1,Moderate
+Empire Restaurant,No,No,3.6,653,Indiranagar,Casual Dining,Biryani,"Italian, Fast Food, Mexican",1200.0,Drinks & nightlife,3,Expensive
+Pizza Hut,No,Yes,3.6,2466,Mg Road,Casual Dining,Pasta,"Continental, South Indian, Italian, Mexican",1500.0,Cafes,4,Expensive
+Resto_154,No,Yes,4.5,2528,Jayanagar,Bar,Pizza,"Fast Food, Chinese, South Indian",1200.0,Dine-out,3,Expensive
+Resto_665,Yes,No,3.8,1838,Mg Road,Cafe,Dosa,"South Indian, Beverages, Italian, Mexican, Desserts",3000.0,Drinks & nightlife,5,Very Expensive
+McDonald's,Yes,No,2.2,128,Whitefield,Bakery,Salad,"Desserts, Fast Food",1500.0,Dine-out,2,Expensive
+Onesta,No,No,3.3,2528,Hsr Layout,Bar,Steak,"Fast Food, Desserts, North Indian, Beverages, South Indian",1200.0,Buffet,5,Expensive
+Resto_442,Yes,Yes,2.8,2772,Jayanagar,Cafe,Salad,"North Indian, Chinese, Thai, Italian, Fast Food",3000.0,Drinks & nightlife,5,Very Expensive
+Onesta,Yes,No,2.1,2415,Koramangala,Cafe,Sushi,"Fast Food, Desserts",200.0,Buffet,2,Cheap
+Leon Grill,Yes,Yes,3.2,1870,Koramangala,Pub,Pasta,"Beverages, Continental, Italian, Desserts, Fast Food",3000.0,Dine-out,5,Very Expensive
+Burger King,No,Yes,4.1,1037,Jp Nagar,Quick Service Restaurant,Steak,"Chinese, Beverages, North Indian, Desserts, Thai",2000.0,Delivery,5,Expensive
+Nandhana Palace,No,No,4.1,2235,Whitefield,Fine Dining,Salad,"Continental, Thai, Desserts, North Indian",1200.0,Delivery,4,Expensive
+Resto_387,Yes,Yes,4.5,2805,Whitefield,Quick Service Restaurant,Dosa,"Chinese, Beverages, Thai",600.0,Drinks & nightlife,3,Moderate
+McDonald's,No,No,4.1,2152,Marathahalli,Fine Dining,Burgers,"Desserts, Continental, Mexican, Thai",3000.0,Dine-out,4,Very Expensive
+Resto_203,No,Yes,3.5,2329,Koramangala,Cafe,Sushi,"Italian, North Indian",800.0,Pubs and bars,2,Moderate
+Resto_711,Yes,No,3.1,870,Marathahalli,Fine Dining,Steak,"Desserts, Italian, Chinese, Beverages",600.0,Drinks & nightlife,4,Moderate
+Resto_627,No,No,4.8,2043,Jayanagar,Bakery,Dosa,"Beverages, Continental",3000.0,Cafes,2,Very Expensive
+Empire Restaurant,Yes,No,2.5,1164,Jayanagar,Bakery,Pizza,"Thai, North Indian, Chinese, Mexican, South Indian",1200.0,Cafes,5,Expensive
+McDonald's,No,Yes,4.3,2953,Jp Nagar,Quick Service Restaurant,Steak,"South Indian, Continental, Italian, Mexican, Thai",200.0,Drinks & nightlife,5,Cheap
+Resto_125,Yes,Yes,2.2,1933,Koramangala,Quick Service Restaurant,Steak,"South Indian, Fast Food, Mexican, Beverages",1500.0,Delivery,4,Expensive
+Nandhana Palace,No,Yes,3.7,350,Koramangala,Casual Dining,Pizza,"Thai, Chinese, South Indian, North Indian",2000.0,Delivery,4,Expensive
+Leon Grill,Yes,Yes,4.4,223,Mg Road,Quick Service Restaurant,Salad,"Italian, Fast Food",400.0,Buffet,2,Cheap
+Resto_753,Yes,No,3.9,820,Jp Nagar,Fine Dining,Biryani,"South Indian, Italian, Fast Food, Chinese, Desserts",600.0,Dine-out,5,Moderate
+McDonald's,Yes,No,4.5,2111,Indiranagar,Fine Dining,Pizza,Desserts,2000.0,Buffet,1,Expensive
+Leon Grill,No,Yes,2.0,2570,Whitefield,Quick Service Restaurant,Sushi,"Thai, Beverages, Mexican, Chinese, Desserts",3000.0,Drinks & nightlife,5,Very Expensive
+Resto_908,No,No,4.9,2508,Hsr Layout,Bakery,Biryani,Desserts,3000.0,Drinks & nightlife,1,Very Expensive
+Resto_147,No,No,4.0,2011,Hsr Layout,Quick Service Restaurant,Biryani,"Continental, Mexican, Thai, North Indian",3000.0,Pubs and bars,4,Very Expensive
+Resto_922,No,No,2.8,2420,Hsr Layout,Casual Dining,Pasta,"South Indian, Fast Food, Chinese",200.0,Pubs and bars,3,Cheap
+Resto_192,No,Yes,2.1,1794,Mg Road,Cafe,Burgers,"Desserts, Mexican, Thai, Continental",1500.0,Dine-out,4,Expensive
+Empire Restaurant,Yes,Yes,4.4,2897,Indiranagar,Cafe,Pasta,"Desserts, Fast Food",600.0,Dine-out,2,Moderate
+Onesta,No,Yes,2.6,1090,Whitefield,Fine Dining,Burgers,"Mexican, South Indian, Fast Food, Desserts",800.0,Cafes,4,Moderate
+Onesta,Yes,Yes,3.2,1206,Marathahalli,Cafe,Pizza,North Indian,800.0,Cafes,1,Moderate
+Burger King,Yes,No,4.9,2167,Whitefield,Pub,Pizza,Chinese,2500.0,Drinks & nightlife,1,Very Expensive
+Onesta,Yes,Yes,4.4,98,Jayanagar,Casual Dining,Pasta,"Beverages, Fast Food",1500.0,Cafes,2,Expensive
+Empire Restaurant,No,No,2.8,2655,Mg Road,Bakery,Salad,Desserts,3000.0,Pubs and bars,1,Very Expensive
+Resto_289,No,Yes,3.8,1491,Hsr Layout,Quick Service Restaurant,Pasta,Beverages,1500.0,Buffet,1,Expensive
+Leon Grill,No,No,3.0,1630,Nan,Bar,Steak,"Desserts, Mexican, Italian, North Indian",1000.0,Delivery,4,Moderate
+Nandhana Palace,Yes,Yes,2.6,696,Nan,Bar,Pasta,"Chinese, Continental, Beverages, Desserts",2500.0,Delivery,4,Very Expensive
+Resto_671,No,Yes,2.5,1179,Whitefield,Bakery,Dosa,"Italian, South Indian, Continental, Beverages",3000.0,Dine-out,4,Very Expensive
+Nandhana Palace,No,Yes,3.5,2063,Koramangala,Cafe,Steak,"Continental, South Indian, Fast Food, North Indian, Desserts",200.0,Cafes,5,Cheap
+Resto_74,Yes,Yes,3.9,1989,Marathahalli,Bakery,Salad,"Italian, Beverages, Chinese",1200.0,Buffet,3,Expensive
+Leon Grill,No,Yes,3.7,1374,Indiranagar,Casual Dining,Burgers,"South Indian, Mexican, Fast Food",1200.0,Buffet,3,Expensive
+Leon Grill,Yes,No,3.5,949,Indiranagar,Pub,Steak,Fast Food,600.0,Dine-out,1,Moderate
+Resto_171,Yes,No,4.1,977,Koramangala,Cafe,Dosa,Mexican,400.0,Pubs and bars,1,Cheap
+Resto_155,Yes,No,2.4,1571,Mg Road,Cafe,Salad,"Beverages, South Indian, Fast Food, Italian",1000.0,Buffet,4,Moderate
+Nandhana Palace,Yes,No,3.5,507,Koramangala,Bar,Salad,Desserts,1000.0,Drinks & nightlife,1,Moderate
+Onesta,No,Yes,4.7,221,Jp Nagar,Quick Service Restaurant,Biryani,"Mexican, Continental",1200.0,Delivery,2,Expensive
+Leon Grill,Yes,Yes,4.3,2857,Jp Nagar,Pub,Salad,Thai,3000.0,Buffet,1,Very Expensive
+Resto_29,Yes,No,3.5,2567,Hsr Layout,Quick Service Restaurant,Pasta,"Chinese, Continental, Italian, South Indian",1200.0,Dine-out,4,Expensive
+Resto_633,Yes,No,4.5,1885,Koramangala,Casual Dining,Dosa,Continental,400.0,Buffet,1,Cheap
+Leon Grill,No,No,3.0,1630,Jayanagar,Bar,Steak,"Desserts, Mexican, Italian, North Indian",1000.0,Delivery,4,Moderate
+Resto_428,No,No,4.8,2433,Koramangala,Quick Service Restaurant,Burgers,Fast Food,2000.0,Delivery,1,Expensive
+Resto_792,Yes,No,2.3,2797,Jayanagar,Pub,Salad,"South Indian, Chinese, Desserts, Beverages, Continental",600.0,Pubs and bars,5,Moderate
+Resto_796,Yes,Yes,3.1,1440,Koramangala,Bar,Burgers,"Beverages, Fast Food, South Indian, Continental",1200.0,Delivery,4,Expensive
+Resto_106,No,Yes,2.1,1573,Mg Road,Cafe,Salad,"Thai, Fast Food",800.0,Cafes,2,Moderate
+KFC,Yes,Yes,2.7,190,Indiranagar,Fine Dining,Pizza,"South Indian, Italian, Continental, North Indian",3000.0,Pubs and bars,4,Very Expensive
+Resto_276,No,Yes,3.2,391,Indiranagar,Bakery,Pizza,"North Indian, Fast Food, Mexican, Continental, Beverages",400.0,Pubs and bars,5,Cheap
+Resto_293,Yes,Yes,3.6,432,Jp Nagar,Fine Dining,Sushi,"Mexican, Chinese, South Indian, Fast Food",600.0,Pubs and bars,4,Moderate
+Resto_909,No,Yes,4.5,1898,Hsr Layout,Quick Service Restaurant,Steak,"Italian, Desserts, Continental, South Indian, Thai",200.0,Drinks & nightlife,5,Cheap
+KFC,No,No,3.5,2750,Jayanagar,Casual Dining,Steak,"South Indian, Desserts, Italian, Thai, Mexican",2000.0,Buffet,5,Expensive
+Leon Grill,No,No,3.9,1268,Jp Nagar,Bakery,Biryani,"Italian, Chinese, Desserts, South Indian, Mexican",1500.0,Delivery,5,Expensive
+Burger King,Yes,Yes,4.1,652,Indiranagar,Bakery,Salad,"Desserts, Fast Food, South Indian, Continental, Italian",1200.0,Cafes,5,Expensive
+McDonald's,Yes,Yes,3.6,2206,Marathahalli,Pub,Pizza,"Italian, Mexican, Chinese, Continental, Thai",1500.0,Dine-out,5,Expensive
+Onesta,Yes,No,2.5,331,Marathahalli,Quick Service Restaurant,Pasta,"Thai, North Indian",200.0,Buffet,2,Cheap
+Resto_356,No,No,4.4,1840,Koramangala,Casual Dining,Salad,"North Indian, Thai, Fast Food",1500.0,Pubs and bars,3,Expensive
+Resto_234,Yes,Yes,2.6,1814,Hsr Layout,Fine Dining,Pizza,"Fast Food, Beverages, Italian",800.0,Dine-out,3,Moderate
+Leon Grill,No,No,4.5,546,Whitefield,Cafe,Burgers,"Thai, Continental, Italian, North Indian, Desserts",1200.0,Delivery,5,Expensive
+Resto_813,Yes,No,3.6,1923,Whitefield,Fine Dining,Pasta,"Chinese, South Indian",2000.0,Cafes,2,Expensive
+Pizza Hut,Yes,No,2.9,1851,Koramangala,Casual Dining,Salad,"Continental, Chinese, Beverages",3000.0,Buffet,3,Very Expensive
+Burger King,Yes,No,3.1,2412,Indiranagar,Bakery,Dosa,"Continental, Desserts",800.0,Buffet,2,Moderate
+Burger King,Yes,Yes,3.7,2120,Jayanagar,Quick Service Restaurant,Biryani,Continental,800.0,Pubs and bars,1,Moderate
+Leon Grill,No,No,2.4,668,Koramangala,Quick Service Restaurant,Burgers,"Mexican, Thai, North Indian",1000.0,Pubs and bars,3,Moderate
+Onesta,No,No,3.6,1210,Indiranagar,Cafe,Burgers,Continental,1500.0,Pubs and bars,1,Expensive
+Onesta,No,No,3.1,171,Koramangala,Bakery,Sushi,"North Indian, Thai",200.0,Cafes,2,Cheap
+Resto_971,No,No,2.2,887,Koramangala,Pub,Sushi,"Mexican, Chinese, South Indian, Fast Food",800.0,Delivery,4,Moderate
+Resto_628,No,Yes,2.6,2429,Indiranagar,Casual Dining,Sushi,"Continental, North Indian, Mexican, South Indian",200.0,Drinks & nightlife,4,Cheap
+Resto_666,Yes,No,4.9,2359,Marathahalli,Fine Dining,Dosa,"South Indian, Desserts",200.0,Buffet,2,Cheap
+Burger King,No,No,3.2,667,Jayanagar,Pub,Pizza,"Desserts, Fast Food",600.0,Pubs and bars,2,Moderate
+Burger King,No,No,4.5,566,Marathahalli,Fine Dining,Sushi,"Beverages, Thai, Continental",2500.0,Drinks & nightlife,3,Very Expensive
+McDonald's,Yes,Yes,4.3,2344,Nan,Fine Dining,Pizza,"Fast Food, Italian, Beverages, Desserts, Continental",2000.0,Cafes,5,Expensive
+McDonald's,No,No,3.6,1255,Jayanagar,Bar,Pasta,"Italian, Desserts, Thai",1000.0,Drinks & nightlife,3,Moderate
+Resto_636,No,Yes,3.3,227,Indiranagar,Quick Service Restaurant,Pizza,"Desserts, South Indian, Italian, Mexican",2500.0,Cafes,4,Very Expensive
+Resto_117,Yes,No,3.4,2790,Jayanagar,Casual Dining,Sushi,"South Indian, Mexican, Desserts, Italian, Thai",800.0,Drinks & nightlife,5,Moderate
+Resto_562,Yes,Yes,2.6,475,Koramangala,Fine Dining,Pasta,"Fast Food, Thai, Beverages",400.0,Cafes,3,Cheap
+Pizza Hut,No,No,4.2,1391,Marathahalli,Fine Dining,Burgers,"Fast Food, North Indian, Desserts, Beverages",1000.0,Drinks & nightlife,4,Moderate
+Pizza Hut,Yes,No,2.1,2568,Whitefield,Fine Dining,Pasta,"Desserts, Italian, Mexican",1000.0,Cafes,3,Moderate
+Resto_769,No,No,3.5,1725,Marathahalli,Bakery,Burgers,"South Indian, Continental, North Indian",400.0,Pubs and bars,3,Cheap
+McDonald's,Yes,No,4.6,2981,Whitefield,Casual Dining,Salad,"Mexican, Italian, Continental, Thai",600.0,Dine-out,4,Moderate
+Resto_654,Yes,No,3.1,346,Koramangala,Quick Service Restaurant,Burgers,"Mexican, Desserts, North Indian, Fast Food, Italian",1500.0,Cafes,5,Expensive
+Nandhana Palace,No,No,3.9,826,Whitefield,Cafe,Pizza,"Continental, Italian, Beverages, Mexican",1200.0,Cafes,4,Expensive
+Resto_377,Yes,Yes,2.8,718,Jayanagar,Cafe,Dosa,"Chinese, North Indian",1200.0,Drinks & nightlife,2,Expensive
+Resto_817,No,Yes,2.1,2556,Koramangala,Fine Dining,Steak,"North Indian, Continental, Mexican, Chinese, Italian",1500.0,Drinks & nightlife,5,Expensive
+Resto_736,No,No,4.7,2655,Jayanagar,Bar,Burgers,"Desserts, South Indian, Fast Food, Italian, North Indian",400.0,Dine-out,5,Cheap
+KFC,Yes,No,3.8,2538,Mg Road,Cafe,Steak,"North Indian, Chinese",800.0,Dine-out,2,Moderate
+Leon Grill,No,Yes,2.4,1432,Whitefield,Fine Dining,Pasta,"South Indian, Chinese, Continental, Desserts",1500.0,Pubs and bars,4,Expensive
+Empire Restaurant,Yes,Yes,3.2,1992,Koramangala,Bar,Sushi,"North Indian, Beverages, Thai, Fast Food, Continental",1500.0,Buffet,5,Expensive
+Resto_826,No,No,3.3,1651,Marathahalli,Bar,Pasta,"Desserts, South Indian, Beverages, Thai",1500.0,Drinks & nightlife,4,Expensive
+Resto_484,No,Yes,4.8,2002,Hsr Layout,Fine Dining,Steak,Desserts,3000.0,Pubs and bars,1,Very Expensive
+Leon Grill,No,Yes,4.8,2783,Koramangala,Quick Service Restaurant,Salad,"North Indian, Continental, Beverages",2500.0,Pubs and bars,3,Very Expensive
+KFC,Yes,No,4.0,691,Koramangala,Bakery,Biryani,"Mexican, Continental, South Indian, North Indian, Desserts",600.0,Pubs and bars,5,Moderate
+Resto_638,No,Yes,4.4,606,Koramangala,Quick Service Restaurant,Biryani,"Chinese, Mexican, North Indian, Continental",1000.0,Drinks & nightlife,4,Moderate
+Empire Restaurant,No,Yes,4.0,941,Mg Road,Fine Dining,Pizza,"Continental, Beverages, Fast Food, Thai, Chinese",1000.0,Pubs and bars,5,Moderate
+Resto_937,Yes,Yes,4.1,802,Hsr Layout,Cafe,Pasta,"Continental, Desserts",200.0,Delivery,2,Cheap
+Resto_657,No,Yes,4.2,1211,Jp Nagar,Pub,Pizza,"North Indian, Continental, Thai, South Indian",1000.0,Drinks & nightlife,4,Moderate
+Empire Restaurant,No,Yes,3.4,446,Whitefield,Quick Service Restaurant,Burgers,"Chinese, Fast Food",2500.0,Delivery,2,Very Expensive
+Nandhana Palace,Yes,Yes,4.0,463,Marathahalli,Bakery,Pizza,"South Indian, North Indian, Fast Food, Continental, Chinese",600.0,Dine-out,5,Moderate
+Resto_956,No,Yes,4.8,2506,Marathahalli,Bar,Biryani,"Mexican, Chinese, Desserts",2500.0,Delivery,3,Very Expensive
+Pizza Hut,Yes,No,4.5,1953,Mg Road,Quick Service Restaurant,Burgers,"Desserts, Italian",2000.0,Pubs and bars,2,Expensive
+KFC,No,Yes,4.5,2362,Hsr Layout,Bakery,Dosa,"Italian, North Indian, Mexican, Chinese, Continental",1500.0,Drinks & nightlife,5,Expensive
+Leon Grill,Yes,Yes,3.0,1746,Marathahalli,Cafe,Salad,"South Indian, Fast Food, Mexican, Italian",200.0,Buffet,4,Cheap
+Nandhana Palace,Yes,Yes,3.1,1133,Indiranagar,Quick Service Restaurant,Biryani,Fast Food,800.0,Delivery,1,Moderate
+Nandhana Palace,No,No,3.9,2515,Jayanagar,Bar,Salad,"South Indian, Desserts, Fast Food, Chinese, Continental",3000.0,Drinks & nightlife,5,Very Expensive
+Leon Grill,Yes,No,4.5,508,Jayanagar,Quick Service Restaurant,Dosa,"South Indian, Thai",800.0,Delivery,2,Moderate
+Nandhana Palace,No,No,3.2,1356,Whitefield,Casual Dining,Steak,"South Indian, Desserts",400.0,Cafes,2,Cheap
+KFC,Yes,Yes,3.1,1043,Indiranagar,Quick Service Restaurant,Dosa,"Continental, Mexican, North Indian, Desserts, Fast Food",400.0,Dine-out,5,Cheap
+Burger King,Yes,Yes,2.6,629,Nan,Casual Dining,Sushi,"Italian, South Indian, Continental, Thai",2500.0,Cafes,4,Very Expensive
+Onesta,No,Yes,3.8,813,Hsr Layout,Pub,Sushi,Italian,2000.0,Dine-out,1,Expensive
+Resto_108,Yes,No,2.8,1498,Mg Road,Quick Service Restaurant,Sushi,Mexican,200.0,Buffet,1,Cheap
+Resto_455,No,No,2.1,585,Jayanagar,Bar,Biryani,"Mexican, North Indian, Continental, South Indian, Chinese",600.0,Delivery,5,Moderate
+Resto_926,Yes,No,2.4,2966,Indiranagar,Bar,Burgers,"Thai, Mexican, Beverages",2500.0,Pubs and bars,3,Very Expensive
+Pizza Hut,Yes,Yes,4.6,2266,Jayanagar,Quick Service Restaurant,Salad,"Fast Food, Italian, Thai",800.0,Drinks & nightlife,3,Moderate
+McDonald's,Yes,Yes,4.1,1730,Hsr Layout,Quick Service Restaurant,Steak,"Mexican, South Indian",3000.0,Delivery,2,Very Expensive
+KFC,Yes,Yes,2.4,2990,Mg Road,Quick Service Restaurant,Biryani,"Thai, South Indian, Italian, Beverages",400.0,Pubs and bars,4,Cheap
+Empire Restaurant,No,Yes,4.1,2771,Indiranagar,Pub,Burgers,"North Indian, Fast Food, Chinese, Desserts",800.0,Pubs and bars,4,Moderate
+Nandhana Palace,No,Yes,3.4,1369,Whitefield,Casual Dining,Sushi,North Indian,2500.0,Drinks & nightlife,1,Very Expensive
+Empire Restaurant,Yes,Yes,3.6,2161,Marathahalli,Bar,Pasta,"Thai, Continental",800.0,Cafes,2,Moderate
+Resto_332,Yes,Yes,3.8,1488,Mg Road,Cafe,Sushi,"Thai, Desserts, Beverages",200.0,Cafes,3,Cheap
+Resto_919,No,No,3.2,107,Whitefield,Quick Service Restaurant,Sushi,"Chinese, South Indian",2500.0,Delivery,2,Very Expensive
+Burger King,Yes,Yes,4.3,336,Marathahalli,Bar,Pasta,Mexican,1000.0,Drinks & nightlife,1,Moderate
+Pizza Hut,No,Yes,4.1,1508,Hsr Layout,Pub,Sushi,"Beverages, South Indian, Continental, Fast Food, Thai",600.0,Delivery,5,Moderate
+Empire Restaurant,Yes,Yes,4.5,2907,Whitefield,Fine Dining,Burgers,"Italian, Continental, North Indian, Thai",1000.0,Pubs and bars,4,Moderate
+Burger King,Yes,Yes,2.6,1146,Whitefield,Casual Dining,Pasta,"Desserts, Fast Food, Continental, Italian",600.0,Pubs and bars,4,Moderate
+Nandhana Palace,No,Yes,3.8,729,Mg Road,Pub,Dosa,"Fast Food, South Indian, Mexican",600.0,Drinks & nightlife,3,Moderate
+Pizza Hut,Yes,No,3.2,1746,Nan,Fine Dining,Pizza,"Thai, Chinese",1000.0,Dine-out,2,Moderate
+Resto_528,Yes,No,4.0,1959,Hsr Layout,Bakery,Burgers,"Mexican, North Indian, Thai",600.0,Pubs and bars,3,Moderate
+Burger King,No,No,2.2,1756,Hsr Layout,Pub,Dosa,"Beverages, South Indian",800.0,Pubs and bars,2,Moderate
+Burger King,Yes,No,2.6,1147,Koramangala,Bakery,Sushi,"South Indian, North Indian, Italian",1000.0,Delivery,3,Moderate
+Resto_548,No,Yes,2.0,1764,Marathahalli,Cafe,Pizza,Beverages,2500.0,Cafes,1,Very Expensive
+Leon Grill,Yes,No,3.8,1174,Marathahalli,Casual Dining,Dosa,"Beverages, Chinese",1000.0,Drinks & nightlife,2,Moderate
+Burger King,No,Yes,4.3,1887,Koramangala,Bakery,Biryani,"North Indian, Italian, South Indian, Fast Food",1200.0,Pubs and bars,4,Expensive
+Nandhana Palace,Yes,No,3.9,818,Whitefield,Bar,Burgers,"Continental, Fast Food",600.0,Buffet,2,Moderate
+Empire Restaurant,No,No,4.5,1514,Mg Road,Quick Service Restaurant,Pizza,Continental,1200.0,Dine-out,1,Expensive
+Nandhana Palace,No,No,2.9,782,Hsr Layout,Casual Dining,Steak,"Thai, Desserts, Continental, Beverages, North Indian",2000.0,Cafes,5,Expensive
+Onesta,No,No,3.2,30,Marathahalli,Bar,Biryani,"Beverages, Continental",1500.0,Delivery,2,Expensive
+Onesta,No,No,3.1,973,Marathahalli,Pub,Burgers,"Thai, Desserts, Beverages",600.0,Dine-out,3,Moderate
+KFC,Yes,No,4.6,268,Whitefield,Casual Dining,Steak,"South Indian, North Indian, Thai",200.0,Drinks & nightlife,3,Cheap
+Resto_554,Yes,Yes,3.1,2150,Whitefield,Fine Dining,Steak,"Italian, Thai",1500.0,Pubs and bars,2,Expensive
+Empire Restaurant,Yes,Yes,3.9,26,Mg Road,Cafe,Sushi,"Chinese, South Indian",200.0,Delivery,2,Cheap
+Resto_189,Yes,Yes,4.5,297,Nan,Fine Dining,Steak,"Fast Food, Chinese, Thai, South Indian",1200.0,Pubs and bars,4,Expensive
+Burger King,No,No,3.0,2684,Koramangala,Bar,Burgers,"South Indian, Thai, Desserts",3000.0,Dine-out,3,Very Expensive
+Onesta,No,No,3.6,1862,Indiranagar,Quick Service Restaurant,Salad,"Thai, Chinese, Mexican",2500.0,Cafes,3,Very Expensive
+Empire Restaurant,No,No,2.5,2403,Jp Nagar,Pub,Pizza,Mexican,1500.0,Dine-out,1,Expensive
+KFC,No,No,4.5,1816,Whitefield,Quick Service Restaurant,Sushi,"Continental, Italian, Fast Food, South Indian, Thai",2500.0,Cafes,5,Very Expensive
+Onesta,No,No,2.7,1889,Marathahalli,Pub,Pasta,"Chinese, Fast Food, Mexican, Thai, North Indian",1500.0,Buffet,5,Expensive
+KFC,Yes,No,2.7,1616,Whitefield,Pub,Biryani,"Beverages, Continental, Italian, Desserts",1000.0,Pubs and bars,4,Moderate
+Leon Grill,No,No,3.7,1524,Marathahalli,Quick Service Restaurant,Dosa,"South Indian, Desserts, Mexican",1200.0,Dine-out,3,Expensive
+Nandhana Palace,No,No,4.5,2415,Whitefield,Pub,Dosa,"Beverages, Chinese",2000.0,Pubs and bars,2,Expensive
+KFC,Yes,Yes,3.0,1699,Indiranagar,Pub,Sushi,"Fast Food, Beverages",200.0,Cafes,2,Cheap
+Resto_927,No,No,3.9,2712,Hsr Layout,Bakery,Biryani,"Continental, Mexican, North Indian, South Indian",200.0,Delivery,4,Cheap
+Resto_752,No,Yes,3.7,1859,Mg Road,Casual Dining,Sushi,"Fast Food, Continental, North Indian, Beverages",1500.0,Cafes,4,Expensive
+Leon Grill,No,Yes,3.3,2079,Hsr Layout,Pub,Steak,"Fast Food, Desserts, South Indian",1000.0,Pubs and bars,3,Moderate
+Resto_448,No,Yes,3.3,840,Marathahalli,Fine Dining,Steak,"Mexican, Italian, Continental",400.0,Pubs and bars,3,Cheap
+Onesta,Yes,Yes,2.8,1844,Mg Road,Cafe,Pizza,"Fast Food, North Indian",3000.0,Pubs and bars,2,Very Expensive
+Resto_379,No,No,2.8,2349,Jayanagar,Bar,Dosa,"Desserts, Thai, Chinese, Beverages, Italian",200.0,Delivery,5,Cheap
+Pizza Hut,No,No,4.9,1399,Hsr Layout,Bakery,Pasta,"Thai, North Indian, South Indian, Fast Food, Beverages",3000.0,Cafes,5,Very Expensive
+Empire Restaurant,No,No,3.0,243,Jayanagar,Cafe,Sushi,"Thai, North Indian, Italian, Desserts, Beverages",3000.0,Delivery,5,Very Expensive
+Resto_282,Yes,Yes,2.8,512,Marathahalli,Fine Dining,Burgers,Italian,400.0,Drinks & nightlife,1,Cheap
+KFC,Yes,No,4.5,717,Marathahalli,Fine Dining,Burgers,"Thai, South Indian",1000.0,Buffet,2,Moderate
+Burger King,No,No,2.1,1995,Hsr Layout,Bar,Salad,Italian,1500.0,Buffet,1,Expensive
+Onesta,Yes,Yes,4.8,1140,Jayanagar,Casual Dining,Salad,"South Indian, Fast Food, Mexican",1200.0,Pubs and bars,3,Expensive
+KFC,No,No,4.3,1133,Koramangala,Pub,Pasta,"South Indian, Continental, Beverages, North Indian",1500.0,Drinks & nightlife,4,Expensive
+Onesta,No,No,3.7,999,Jp Nagar,Cafe,Steak,"Italian, Desserts, Thai",400.0,Drinks & nightlife,3,Cheap
+Onesta,Yes,Yes,3.8,1652,Mg Road,Bakery,Burgers,"North Indian, Fast Food, Italian, Thai",1200.0,Delivery,4,Expensive
+McDonald's,Yes,Yes,3.8,373,Jayanagar,Bakery,Steak,"Mexican, Chinese, Beverages, South Indian, Desserts",1200.0,Cafes,5,Expensive
+Pizza Hut,No,Yes,4.7,1804,Marathahalli,Bar,Dosa,"Mexican, Beverages, Fast Food",600.0,Delivery,3,Moderate
+Leon Grill,Yes,No,2.4,1191,Jp Nagar,Pub,Salad,"North Indian, Mexican, Italian, Chinese",3000.0,Delivery,4,Very Expensive
+Empire Restaurant,No,Yes,4.9,683,Jp Nagar,Cafe,Steak,South Indian,3000.0,Dine-out,1,Very Expensive
+Resto_360,Yes,No,2.0,1994,Indiranagar,Casual Dining,Steak,South Indian,400.0,Pubs and bars,1,Cheap
+Resto_161,Yes,No,3.1,309,Indiranagar,Bakery,Salad,"Continental, Thai, Desserts, Italian, South Indian",3000.0,Pubs and bars,5,Very Expensive
+Empire Restaurant,No,Yes,4.8,303,Jp Nagar,Cafe,Biryani,"South Indian, Chinese, Beverages, Fast Food",3000.0,Cafes,4,Very Expensive
+Empire Restaurant,No,Yes,2.4,39,Marathahalli,Bar,Dosa,"Thai, Italian, Mexican",1500.0,Drinks & nightlife,3,Expensive
+Burger King,Yes,No,4.9,2228,Koramangala,Pub,Burgers,Fast Food,200.0,Pubs and bars,1,Cheap
+Pizza Hut,No,Yes,2.5,376,Mg Road,Cafe,Salad,"Mexican, North Indian",800.0,Cafes,2,Moderate
+Empire Restaurant,Yes,No,2.2,837,Whitefield,Cafe,Steak,"Continental, Fast Food",1200.0,Dine-out,2,Expensive
+McDonald's,Yes,No,4.3,1771,Indiranagar,Bar,Burgers,"Mexican, Italian, South Indian, Chinese, Continental",2000.0,Pubs and bars,5,Expensive
+Pizza Hut,Yes,No,4.1,2753,Jayanagar,Cafe,Pizza,"South Indian, Continental, Thai, North Indian",400.0,Pubs and bars,4,Cheap
+Pizza Hut,Yes,No,3.9,2094,Jayanagar,Bakery,Pizza,"Thai, Mexican",1500.0,Drinks & nightlife,2,Expensive
+Resto_347,Yes,Yes,3.8,1768,Whitefield,Quick Service Restaurant,Burgers,"Continental, Chinese, Fast Food",3000.0,Buffet,3,Very Expensive
+Resto_454,No,Yes,4.7,1512,Indiranagar,Pub,Pizza,"Chinese, Fast Food, Thai, Continental",1000.0,Drinks & nightlife,4,Moderate
+Onesta,Yes,No,4.0,250,Marathahalli,Cafe,Pizza,"North Indian, Chinese, South Indian, Beverages, Desserts",600.0,Pubs and bars,5,Moderate
+KFC,Yes,No,3.8,161,Indiranagar,Cafe,Burgers,"Beverages, Italian, Desserts, Chinese, South Indian",1000.0,Dine-out,5,Moderate
+Resto_178,Yes,Yes,3.5,2870,Jp Nagar,Bakery,Pizza,Fast Food,400.0,Buffet,1,Cheap
+KFC,No,Yes,4.4,1378,Indiranagar,Fine Dining,Salad,Chinese,1200.0,Pubs and bars,1,Expensive
+McDonald's,Yes,No,2.6,2695,Whitefield,Fine Dining,Pizza,"Thai, North Indian, Chinese, Desserts, Italian",1000.0,Pubs and bars,5,Moderate
+Resto_787,No,Yes,2.2,260,Mg Road,Fine Dining,Pasta,"Italian, Fast Food",3000.0,Delivery,2,Very Expensive
+Resto_818,No,No,2.4,1418,Whitefield,Pub,Pizza,"Desserts, Continental",1000.0,Pubs and bars,2,Moderate
+Pizza Hut,No,Yes,3.9,728,Jp Nagar,Fine Dining,Dosa,Thai,2500.0,Cafes,1,Very Expensive
+McDonald's,Yes,No,3.3,2035,Indiranagar,Bar,Pizza,"Italian, Continental, Beverages, North Indian, South Indian",3000.0,Pubs and bars,5,Very Expensive
+Resto_604,Yes,Yes,2.3,888,Koramangala,Quick Service Restaurant,Burgers,"Italian, Chinese",600.0,Delivery,2,Moderate
+Leon Grill,Yes,No,2.5,1611,Jp Nagar,Casual Dining,Pizza,"Beverages, Desserts, Chinese",1000.0,Buffet,3,Moderate
+Leon Grill,Yes,No,3.1,712,Whitefield,Bakery,Salad,"North Indian, Continental, Beverages, Chinese, Italian",3000.0,Cafes,5,Very Expensive
+McDonald's,No,Yes,2.1,36,Marathahalli,Casual Dining,Dosa,"Desserts, Beverages, Italian",1500.0,Buffet,3,Expensive
+Burger King,Yes,Yes,3.6,1778,Jp Nagar,Casual Dining,Pizza,"South Indian, Mexican, Thai, Continental, Desserts",600.0,Buffet,5,Moderate
+KFC,Yes,No,2.9,1557,Koramangala,Quick Service Restaurant,Steak,Fast Food,2500.0,Drinks & nightlife,1,Very Expensive
+Nandhana Palace,Yes,No,3.4,827,Jayanagar,Casual Dining,Sushi,"Italian, Mexican",2500.0,Cafes,2,Very Expensive
+Pizza Hut,Yes,No,3.7,315,Marathahalli,Bakery,Pizza,"Thai, North Indian, Desserts, Mexican, Continental",600.0,Buffet,5,Moderate
+Resto_587,No,Yes,4.5,2740,Indiranagar,Quick Service Restaurant,Steak,"Desserts, Beverages, Fast Food, North Indian",400.0,Cafes,4,Cheap
+KFC,Yes,No,2.4,1728,Koramangala,Casual Dining,Burgers,"South Indian, Desserts",2000.0,Dine-out,2,Expensive
+Resto_331,No,No,4.4,2920,Indiranagar,Bar,Salad,"Fast Food, South Indian, Chinese, Mexican",2000.0,Cafes,4,Expensive
+Pizza Hut,Yes,Yes,4.3,1270,Jayanagar,Quick Service Restaurant,Steak,Thai,2500.0,Cafes,1,Very Expensive
+Empire Restaurant,No,No,3.4,1357,Mg Road,Quick Service Restaurant,Biryani,"Continental, South Indian, North Indian",3000.0,Pubs and bars,3,Very Expensive
+Resto_300,No,Yes,3.4,811,Marathahalli,Bakery,Pizza,"Italian, Beverages, Fast Food, Chinese, North Indian",1000.0,Delivery,5,Moderate
+Onesta,Yes,No,4.2,2079,Indiranagar,Bar,Biryani,"Beverages, Italian, South Indian",1200.0,Buffet,3,Expensive
+Pizza Hut,Yes,No,3.3,967,Jp Nagar,Casual Dining,Salad,"Beverages, Thai, North Indian",1500.0,Delivery,3,Expensive
+McDonald's,No,No,2.3,172,Marathahalli,Cafe,Burgers,Italian,800.0,Cafes,1,Moderate
+Resto_481,No,Yes,2.6,1163,Jayanagar,Cafe,Dosa,"South Indian, Thai, Italian",600.0,Delivery,3,Moderate
+Resto_323,No,No,2.9,2075,Jp Nagar,Bar,Pasta,Chinese,1200.0,Dine-out,1,Expensive
+Resto_904,No,Yes,2.2,1362,Jp Nagar,Pub,Burgers,"Desserts, Mexican",1500.0,Cafes,2,Expensive
+Nandhana Palace,Yes,Yes,2.3,841,Jp Nagar,Cafe,Sushi,"Desserts, Beverages, Fast Food",400.0,Dine-out,3,Cheap
+Empire Restaurant,No,Yes,2.4,2408,Indiranagar,Casual Dining,Biryani,"Chinese, Continental, Thai, Italian, South Indian",1500.0,Dine-out,5,Expensive
+Burger King,Yes,Yes,2.8,307,Mg Road,Pub,Biryani,Mexican,400.0,Drinks & nightlife,1,Cheap
+Resto_275,Yes,No,2.8,1095,Mg Road,Quick Service Restaurant,Pasta,"Thai, Beverages, Desserts, Italian",600.0,Pubs and bars,4,Moderate
+KFC,Yes,No,3.8,578,Koramangala,Bakery,Biryani,"Beverages, North Indian, Continental, Chinese, Fast Food",1000.0,Cafes,5,Moderate
+KFC,No,Yes,2.1,1151,Jp Nagar,Cafe,Burgers,Fast Food,1000.0,Cafes,1,Moderate
+Pizza Hut,No,Yes,2.8,487,Jayanagar,Cafe,Dosa,Beverages,800.0,Dine-out,1,Moderate
+Onesta,No,Yes,4.0,727,Koramangala,Bar,Dosa,"Desserts, North Indian, South Indian, Chinese, Beverages",1500.0,Pubs and bars,5,Expensive
+Empire Restaurant,Yes,Yes,4.0,1546,Koramangala,Fine Dining,Biryani,"Thai, North Indian, Chinese, Fast Food",3000.0,Dine-out,4,Very Expensive
+McDonald's,No,No,2.5,2047,Indiranagar,Quick Service Restaurant,Pizza,"Fast Food, Beverages, Italian",1200.0,Pubs and bars,3,Expensive
+Resto_34,Yes,Yes,2.6,83,Jayanagar,Cafe,Dosa,"Desserts, Chinese",3000.0,Drinks & nightlife,2,Very Expensive
+Resto_267,Yes,No,2.6,1022,Jp Nagar,Cafe,Biryani,Chinese,400.0,Buffet,1,Cheap
+Pizza Hut,No,Yes,4.1,2414,Indiranagar,Cafe,Steak,Fast Food,3000.0,Drinks & nightlife,1,Very Expensive
+Resto_431,No,Yes,4.4,2514,Jayanagar,Bakery,Salad,"Chinese, North Indian, Thai, Italian",800.0,Buffet,4,Moderate
+Resto_880,No,Yes,4.6,1554,Marathahalli,Casual Dining,Steak,"Italian, Chinese, Desserts, Thai, North Indian",1500.0,Delivery,5,Expensive
+Leon Grill,Yes,No,4.3,1498,Indiranagar,Bar,Steak,"North Indian, Continental, Chinese, Italian",1200.0,Pubs and bars,4,Expensive
+Empire Restaurant,No,No,2.3,50,Indiranagar,Pub,Salad,"Fast Food, South Indian",2500.0,Pubs and bars,2,Very Expensive
+Nandhana Palace,Yes,Yes,4.0,963,Mg Road,Casual Dining,Dosa,"Italian, North Indian, Chinese, Fast Food, Thai",3000.0,Dine-out,5,Very Expensive
+Resto_694,Yes,No,2.9,213,Jayanagar,Pub,Steak,"Mexican, Desserts, Thai, South Indian",2500.0,Cafes,4,Very Expensive
+Resto_254,Yes,No,3.5,1660,Koramangala,Fine Dining,Pasta,"Chinese, Italian, Desserts",3000.0,Dine-out,3,Very Expensive
+Leon Grill,No,Yes,3.6,2166,Jayanagar,Fine Dining,Steak,"North Indian, Fast Food",1000.0,Dine-out,2,Moderate
+Onesta,Yes,No,4.4,393,Jayanagar,Pub,Steak,"Thai, Beverages, Fast Food, Italian",1200.0,Cafes,4,Expensive
+Nandhana Palace,Yes,Yes,2.8,1749,Nan,Quick Service Restaurant,Dosa,"Beverages, South Indian, North Indian, Thai",400.0,Dine-out,4,Cheap
+Burger King,Yes,No,3.5,1096,Whitefield,Quick Service Restaurant,Sushi,"Italian, North Indian, Mexican, Beverages",200.0,Drinks & nightlife,4,Cheap
+Leon Grill,Yes,No,2.6,2594,Jp Nagar,Cafe,Sushi,"Thai, Italian, Mexican, Beverages",1000.0,Dine-out,4,Moderate
+Burger King,No,Yes,4.4,1998,Mg Road,Pub,Burgers,"Mexican, North Indian, Chinese, Continental, Thai",400.0,Drinks & nightlife,5,Cheap
+Nandhana Palace,Yes,No,3.0,2431,Indiranagar,Bakery,Steak,"Italian, North Indian, Continental, Fast Food, Thai",200.0,Cafes,5,Cheap
+McDonald's,Yes,Yes,2.9,1912,Jayanagar,Bar,Steak,Desserts,3000.0,Cafes,1,Very Expensive
+McDonald's,No,No,2.7,2954,Hsr Layout,Quick Service Restaurant,Dosa,Beverages,600.0,Pubs and bars,1,Moderate
+Leon Grill,No,No,4.8,1098,Indiranagar,Quick Service Restaurant,Steak,"South Indian, Chinese, Mexican",1500.0,Pubs and bars,3,Expensive
+Leon Grill,No,No,2.4,421,Mg Road,Bar,Salad,Thai,2500.0,Cafes,1,Very Expensive
+Resto_954,Yes,No,4.7,855,Jp Nagar,Cafe,Pizza,"Continental, Thai, Chinese, Italian, Beverages",800.0,Delivery,5,Moderate
+Nandhana Palace,Yes,No,2.7,1048,Jayanagar,Fine Dining,Dosa,"Italian, Desserts",600.0,Delivery,2,Moderate
+McDonald's,Yes,Yes,4.8,1887,Jp Nagar,Bar,Burgers,Fast Food,400.0,Pubs and bars,1,Cheap
+Resto_202,No,No,3.2,2644,Indiranagar,Cafe,Pasta,"Italian, Mexican, Desserts, Beverages",2500.0,Delivery,4,Very Expensive
+Onesta,No,Yes,2.4,2133,Hsr Layout,Quick Service Restaurant,Salad,"Italian, Chinese, Thai, Desserts, Beverages",200.0,Delivery,5,Cheap
+Resto_88,No,Yes,2.2,919,Koramangala,Quick Service Restaurant,Salad,Thai,600.0,Pubs and bars,1,Moderate
+Nandhana Palace,Yes,Yes,2.3,304,Jayanagar,Quick Service Restaurant,Pizza,South Indian,3000.0,Delivery,1,Very Expensive
+Leon Grill,No,No,4.1,87,Whitefield,Cafe,Sushi,North Indian,800.0,Cafes,1,Moderate
+Resto_672,Yes,Yes,2.1,2211,Hsr Layout,Casual Dining,Pasta,"North Indian, Thai, Italian, South Indian",3000.0,Cafes,4,Very Expensive
+Pizza Hut,Yes,Yes,3.2,19,Whitefield,Cafe,Dosa,"Beverages, Chinese, Fast Food, Continental",1000.0,Buffet,4,Moderate
+Empire Restaurant,Yes,No,2.9,1476,Koramangala,Bar,Dosa,"Chinese, Italian",1500.0,Buffet,2,Expensive
+Resto_464,No,No,2.5,246,Marathahalli,Quick Service Restaurant,Dosa,"Continental, Mexican, Thai, Beverages, Desserts",800.0,Delivery,5,Moderate
+Resto_675,No,Yes,2.8,620,Marathahalli,Bar,Burgers,"Desserts, Continental",600.0,Delivery,2,Moderate
+Leon Grill,No,No,3.4,2964,Marathahalli,Bakery,Salad,"South Indian, Desserts, North Indian, Fast Food",400.0,Buffet,4,Cheap
+Onesta,Yes,No,2.0,312,Indiranagar,Pub,Pizza,"Italian, Mexican",200.0,Delivery,2,Cheap
+Onesta,Yes,No,4.3,1354,Jayanagar,Fine Dining,Pasta,"Continental, South Indian, North Indian, Thai",1200.0,Buffet,4,Expensive
+Nandhana Palace,No,Yes,3.0,557,Jayanagar,Casual Dining,Pasta,"Desserts, Italian, South Indian, Mexican",800.0,Buffet,4,Moderate
+Leon Grill,No,Yes,2.9,2855,Whitefield,Quick Service Restaurant,Biryani,"Fast Food, Beverages",1500.0,Buffet,2,Expensive
+Resto_507,Yes,No,2.6,1539,Hsr Layout,Fine Dining,Sushi,Italian,3000.0,Dine-out,1,Very Expensive
+Resto_374,Yes,No,2.2,674,Whitefield,Casual Dining,Dosa,"Desserts, South Indian",800.0,Cafes,2,Moderate
+Leon Grill,No,No,4.7,1986,Hsr Layout,Casual Dining,Pizza,North Indian,600.0,Dine-out,1,Moderate
+KFC,Yes,Yes,4.3,584,Hsr Layout,Fine Dining,Burgers,Chinese,1500.0,Dine-out,1,Expensive
+Resto_72,No,Yes,3.7,1757,Koramangala,Pub,Biryani,"North Indian, South Indian, Continental",1000.0,Dine-out,3,Moderate
+Resto_717,No,Yes,3.4,1503,Koramangala,Pub,Dosa,"Continental, Mexican, Thai",1000.0,Dine-out,3,Moderate
+Resto_326,No,No,2.8,355,Marathahalli,Cafe,Sushi,"Desserts, Continental, Italian",2500.0,Delivery,3,Very Expensive
+Leon Grill,Yes,Yes,4.0,671,Marathahalli,Quick Service Restaurant,Biryani,"Beverages, Continental, South Indian, Desserts, Chinese",1000.0,Drinks & nightlife,5,Moderate
+McDonald's,No,Yes,3.3,2735,Whitefield,Quick Service Restaurant,Steak,"Fast Food, North Indian, South Indian",3000.0,Drinks & nightlife,3,Very Expensive
+Onesta,No,No,2.1,328,Jayanagar,Casual Dining,Steak,"Mexican, Chinese, Desserts",600.0,Delivery,3,Moderate
+Burger King,No,Yes,3.9,2402,Koramangala,Cafe,Pizza,"South Indian, Italian, Thai, Fast Food, Mexican",2500.0,Pubs and bars,5,Very Expensive
+Resto_274,No,No,3.1,1173,Marathahalli,Fine Dining,Pizza,"South Indian, Thai",1500.0,Delivery,2,Expensive
+McDonald's,No,Yes,4.7,2607,Marathahalli,Casual Dining,Dosa,"South Indian, North Indian",800.0,Dine-out,2,Moderate
+Leon Grill,No,No,3.0,1517,Indiranagar,Quick Service Restaurant,Steak,"Desserts, Fast Food",1500.0,Dine-out,2,Expensive
+Onesta,Yes,No,2.8,1674,Jp Nagar,Fine Dining,Dosa,"North Indian, Thai, Chinese, South Indian, Fast Food",2500.0,Pubs and bars,5,Very Expensive
+Burger King,No,Yes,4.1,1596,Mg Road,Cafe,Dosa,"Chinese, Mexican, Italian",2500.0,Pubs and bars,3,Very Expensive
+Burger King,Yes,No,4.0,1383,Koramangala,Casual Dining,Pizza,North Indian,200.0,Drinks & nightlife,1,Cheap
+Resto_661,No,Yes,2.7,1334,Jp Nagar,Bar,Sushi,"Chinese, Mexican, Continental, Fast Food",200.0,Cafes,4,Cheap
+KFC,No,No,3.1,432,Jp Nagar,Pub,Salad,"Beverages, Mexican, Italian, Fast Food, Desserts",2000.0,Dine-out,5,Expensive
+Resto_613,No,Yes,4.5,1063,Koramangala,Casual Dining,Dosa,Continental,400.0,Pubs and bars,1,Cheap
+Empire Restaurant,Yes,Yes,4.0,256,Indiranagar,Bar,Sushi,"South Indian, Thai, Beverages, Chinese, Italian",400.0,Buffet,5,Cheap
+Onesta,Yes,No,4.0,715,Marathahalli,Casual Dining,Sushi,"Desserts, Thai, North Indian, Fast Food, Beverages",800.0,Drinks & nightlife,5,Moderate
+Burger King,No,No,2.4,2291,Koramangala,Pub,Salad,"Continental, South Indian",2500.0,Dine-out,2,Very Expensive
+Resto_595,No,No,4.7,406,Indiranagar,Bar,Pizza,Chinese,200.0,Cafes,1,Cheap
+Leon Grill,No,Yes,2.1,2492,Hsr Layout,Fine Dining,Salad,"Mexican, South Indian, North Indian, Beverages, Fast Food",2500.0,Buffet,5,Very Expensive
+Nandhana Palace,Yes,No,4.2,689,Indiranagar,Fine Dining,Burgers,Continental,600.0,Pubs and bars,1,Moderate
+Resto_611,No,Yes,3.2,1232,Whitefield,Quick Service Restaurant,Dosa,"Mexican, Chinese, Thai",2000.0,Pubs and bars,3,Expensive
+McDonald's,No,Yes,2.6,1573,Indiranagar,Casual Dining,Burgers,"Fast Food, Chinese",200.0,Pubs and bars,2,Cheap
+Burger King,No,No,3.7,1659,Whitefield,Pub,Dosa,"South Indian, Beverages, Desserts, Chinese",200.0,Delivery,4,Cheap
+Nandhana Palace,No,Yes,3.4,2494,Hsr Layout,Bar,Salad,"Beverages, Italian, Thai",1500.0,Dine-out,3,Expensive
+Leon Grill,Yes,No,3.1,290,Indiranagar,Cafe,Biryani,"Continental, Chinese, Beverages, Italian, Desserts",200.0,Dine-out,5,Cheap
+KFC,No,Yes,3.9,1948,Jp Nagar,Pub,Dosa,"South Indian, Beverages, Fast Food",1000.0,Pubs and bars,3,Moderate
+Pizza Hut,Yes,No,2.2,2564,Hsr Layout,Pub,Sushi,"Italian, Beverages, North Indian",1000.0,Dine-out,3,Moderate
+Resto_392,Yes,Yes,4.7,2374,Jp Nagar,Quick Service Restaurant,Biryani,"Beverages, Italian",2500.0,Buffet,2,Very Expensive
+KFC,Yes,Yes,2.4,1724,Jp Nagar,Casual Dining,Salad,"Italian, Desserts",1000.0,Pubs and bars,2,Moderate
+Burger King,Yes,No,2.1,1790,Jayanagar,Bakery,Pizza,Beverages,1200.0,Delivery,1,Expensive
+Onesta,Yes,No,3.2,2515,Marathahalli,Pub,Biryani,"North Indian, Beverages, South Indian",600.0,Delivery,3,Moderate
+Nandhana Palace,No,Yes,3.3,1396,Jp Nagar,Bar,Sushi,Italian,2000.0,Pubs and bars,1,Expensive
+Burger King,Yes,No,2.3,1624,Marathahalli,Quick Service Restaurant,Sushi,"South Indian, Mexican, Chinese, Beverages, Italian",1500.0,Delivery,5,Expensive
+Onesta,No,Yes,4.7,1768,Jayanagar,Fine Dining,Steak,"Mexican, Chinese, Continental, Fast Food, Beverages",400.0,Pubs and bars,5,Cheap
